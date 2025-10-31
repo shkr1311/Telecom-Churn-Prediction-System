@@ -1,0 +1,1217 @@
+customer_id,category,created_at,status
+1306,Call Quality,2025-06-24 11:41,Closed
+1306,Service,2025-06-12 11:41,Open
+1204,Network,2025-05-17 11:41,Closed
+1370,Billing,2025-07-16 11:41,Closed
+1370,Service,2025-10-28 11:41,Open
+1909,Recharge,2025-08-27 11:41,Open
+1909,Network,2025-07-27 11:41,Closed
+1909,Data,2025-06-25 11:41,Closed
+1054,Data,2025-09-04 11:41,Closed
+1054,Call Quality,2025-10-28 11:41,Open
+1054,Data,2025-08-08 11:41,Open
+1054,Network,2025-07-08 11:41,Open
+1054,Network,2025-07-15 11:41,Closed
+1885,Call Quality,2025-08-31 11:41,Open
+1683,Call Quality,2025-08-11 11:41,Closed
+1224,Billing,2025-05-31 11:41,Open
+1224,Recharge,2025-10-17 11:41,Closed
+1224,Data,2025-08-09 11:41,Open
+1116,Service,2025-09-05 11:41,Open
+1116,Network,2025-06-20 11:41,Closed
+1116,Call Quality,2025-09-24 11:41,Open
+1242,Data,2025-07-06 11:41,Closed
+1649,Recharge,2025-09-06 11:41,Closed
+1649,Support,2025-05-08 11:41,Closed
+1649,Support,2025-08-02 11:41,Closed
+1445,Support,2025-09-09 11:41,Open
+1445,Support,2025-10-11 11:41,Closed
+1333,Support,2025-09-23 11:41,Closed
+1016,Recharge,2025-07-30 11:41,Closed
+1016,Call Quality,2025-05-26 11:41,Open
+1172,Data,2025-10-24 11:41,Closed
+1172,Network,2025-08-18 11:41,Closed
+1172,Support,2025-08-21 11:41,Closed
+1172,Data,2025-08-26 11:41,Closed
+1172,Call Quality,2025-06-25 11:41,Closed
+1814,Call Quality,2025-09-19 11:41,Closed
+1814,Support,2025-06-08 11:41,Closed
+1814,Service,2025-08-22 11:41,Closed
+1814,Data,2025-10-18 11:41,Closed
+1814,Billing,2025-07-24 11:41,Open
+1283,Service,2025-07-24 11:41,Closed
+1283,Service,2025-05-11 11:41,Open
+1599,Support,2025-08-17 11:41,Closed
+1599,Call Quality,2025-10-14 11:41,Closed
+1599,Service,2025-06-11 11:41,Closed
+1599,Network,2025-05-31 11:41,Open
+1123,Data,2025-10-07 11:41,Closed
+1406,Data,2025-09-26 11:41,Closed
+1406,Network,2025-10-03 11:41,Closed
+1406,Billing,2025-10-26 11:41,Closed
+1406,Call Quality,2025-05-24 11:41,Open
+1406,Data,2025-06-07 11:41,Closed
+1809,Service,2025-06-20 11:41,Closed
+1809,Recharge,2025-09-06 11:41,Closed
+1809,Network,2025-06-14 11:41,Closed
+1249,Service,2025-08-16 11:41,Open
+1010,Network,2025-08-17 11:41,Closed
+1010,Billing,2025-06-25 11:41,Closed
+1010,Service,2025-08-24 11:41,Closed
+1044,Network,2025-08-29 11:41,Closed
+1044,Service,2025-08-15 11:41,Open
+1044,Call Quality,2025-10-06 11:41,Closed
+1596,Data,2025-08-12 11:41,Open
+1596,Billing,2025-09-14 11:41,Closed
+1596,Service,2025-08-28 11:41,Open
+1803,Data,2025-09-13 11:41,Closed
+1803,Data,2025-05-14 11:41,Open
+1708,Billing,2025-10-12 11:41,Closed
+1708,Recharge,2025-07-17 11:41,Closed
+1708,Service,2025-07-20 11:41,Closed
+1708,Network,2025-08-30 11:41,Closed
+1708,Data,2025-07-18 11:41,Open
+1487,Recharge,2025-06-09 11:41,Closed
+1487,Call Quality,2025-05-27 11:41,Closed
+1487,Network,2025-06-01 11:41,Closed
+1487,Data,2025-10-29 11:41,Closed
+1487,Recharge,2025-08-12 11:41,Closed
+1705,Network,2025-05-10 11:41,Open
+1705,Call Quality,2025-10-02 11:41,Closed
+1705,Billing,2025-08-28 11:41,Closed
+1705,Call Quality,2025-07-25 11:41,Closed
+1611,Billing,2025-05-27 11:41,Closed
+1159,Support,2025-10-13 11:41,Open
+1159,Call Quality,2025-09-15 11:41,Closed
+1159,Data,2025-09-11 11:41,Closed
+1159,Data,2025-08-08 11:41,Closed
+1381,Support,2025-06-16 11:41,Closed
+1790,Network,2025-06-10 11:41,Open
+1790,Support,2025-08-19 11:41,Closed
+1092,Call Quality,2025-07-16 11:41,Closed
+1092,Network,2025-06-03 11:41,Open
+1092,Data,2025-05-04 11:41,Open
+1092,Recharge,2025-05-07 11:41,Open
+1255,Service,2025-09-20 11:41,Open
+1255,Recharge,2025-10-06 11:41,Closed
+1255,Data,2025-06-28 11:41,Closed
+1255,Recharge,2025-08-28 11:41,Closed
+1162,Data,2025-10-04 11:41,Open
+1512,Support,2025-09-21 11:41,Closed
+1512,Network,2025-05-16 11:41,Open
+1094,Support,2025-10-18 11:41,Open
+1703,Call Quality,2025-05-12 11:41,Closed
+1703,Support,2025-10-05 11:41,Closed
+1634,Billing,2025-05-16 11:41,Open
+1347,Call Quality,2025-06-14 11:41,Closed
+1347,Call Quality,2025-10-07 11:41,Closed
+1954,Support,2025-09-29 11:41,Open
+1954,Service,2025-05-27 11:41,Open
+1954,Support,2025-07-25 11:41,Closed
+1954,Service,2025-05-21 11:41,Open
+1778,Support,2025-05-20 11:41,Open
+1778,Billing,2025-06-07 11:41,Closed
+1778,Data,2025-07-27 11:41,Closed
+1778,Network,2025-09-15 11:41,Closed
+1778,Billing,2025-10-07 11:41,Open
+1641,Data,2025-10-12 11:41,Open
+1641,Call Quality,2025-09-04 11:41,Closed
+1641,Data,2025-08-21 11:41,Closed
+1641,Data,2025-07-09 11:41,Closed
+1641,Data,2025-06-06 11:41,Closed
+1062,Recharge,2025-10-12 11:41,Closed
+1062,Data,2025-06-19 11:41,Closed
+1062,Network,2025-07-17 11:41,Open
+1062,Billing,2025-06-03 11:41,Open
+1062,Service,2025-10-11 11:41,Open
+1956,Recharge,2025-10-08 11:41,Closed
+1956,Support,2025-05-15 11:41,Open
+1365,Network,2025-10-14 11:41,Open
+1365,Network,2025-10-14 11:41,Closed
+1365,Service,2025-07-08 11:41,Open
+1365,Support,2025-07-21 11:41,Closed
+1365,Billing,2025-05-05 11:41,Closed
+1661,Recharge,2025-07-30 11:41,Open
+1661,Network,2025-06-17 11:41,Closed
+1661,Call Quality,2025-07-29 11:41,Closed
+1158,Call Quality,2025-05-13 11:41,Open
+1158,Network,2025-09-04 11:41,Closed
+1158,Support,2025-09-18 11:41,Closed
+1158,Call Quality,2025-08-17 11:41,Open
+1719,Data,2025-07-19 11:41,Closed
+1719,Data,2025-09-23 11:41,Open
+1719,Data,2025-06-26 11:41,Closed
+1719,Billing,2025-08-02 11:41,Closed
+1719,Service,2025-07-14 11:41,Open
+1550,Call Quality,2025-08-08 11:41,Closed
+1550,Data,2025-09-27 11:41,Closed
+1550,Data,2025-06-20 11:41,Open
+1811,Service,2025-10-31 11:41,Closed
+1811,Support,2025-05-12 11:41,Open
+1811,Recharge,2025-05-26 11:41,Open
+1110,Service,2025-08-27 11:41,Closed
+1110,Data,2025-06-28 11:41,Closed
+1110,Billing,2025-06-17 11:41,Closed
+1129,Billing,2025-06-24 11:41,Closed
+1500,Service,2025-05-10 11:41,Open
+1500,Network,2025-09-09 11:41,Closed
+1500,Recharge,2025-07-30 11:41,Closed
+1500,Network,2025-07-26 11:41,Open
+1500,Call Quality,2025-09-13 11:41,Closed
+1239,Recharge,2025-05-13 11:41,Open
+1239,Billing,2025-09-14 11:41,Open
+1325,Call Quality,2025-05-15 11:41,Closed
+1325,Support,2025-05-26 11:41,Open
+1325,Billing,2025-05-15 11:41,Closed
+1572,Data,2025-05-09 11:41,Open
+1572,Network,2025-10-14 11:41,Closed
+1572,Network,2025-06-24 11:41,Closed
+1808,Support,2025-09-17 11:41,Closed
+1808,Billing,2025-10-22 11:41,Closed
+1808,Network,2025-06-11 11:41,Closed
+1953,Data,2025-05-07 11:41,Closed
+1775,Network,2025-05-30 11:41,Closed
+1775,Data,2025-08-01 11:41,Closed
+1775,Network,2025-07-12 11:41,Closed
+1775,Network,2025-09-27 11:41,Closed
+1775,Support,2025-05-22 11:41,Closed
+1356,Recharge,2025-09-19 11:41,Open
+1356,Billing,2025-06-06 11:41,Closed
+1356,Billing,2025-10-23 11:41,Open
+1825,Billing,2025-05-17 11:41,Open
+1825,Network,2025-08-12 11:41,Closed
+1825,Support,2025-10-08 11:41,Closed
+1825,Service,2025-07-28 11:41,Closed
+1914,Service,2025-05-24 11:41,Open
+1914,Network,2025-09-26 11:41,Open
+1914,Recharge,2025-10-29 11:41,Open
+1914,Support,2025-08-28 11:41,Closed
+1914,Network,2025-09-01 11:41,Closed
+1450,Support,2025-10-08 11:41,Closed
+1450,Network,2025-08-12 11:41,Closed
+1751,Recharge,2025-08-28 11:41,Open
+1751,Recharge,2025-05-20 11:41,Open
+1751,Recharge,2025-08-01 11:41,Closed
+1198,Service,2025-07-15 11:41,Closed
+1198,Data,2025-10-05 11:41,Closed
+1022,Recharge,2025-05-30 11:41,Closed
+1022,Support,2025-05-31 11:41,Closed
+1022,Billing,2025-10-17 11:41,Closed
+1022,Recharge,2025-09-17 11:41,Closed
+1022,Recharge,2025-10-02 11:41,Closed
+1706,Data,2025-07-05 11:41,Closed
+1706,Recharge,2025-09-04 11:41,Open
+1706,Network,2025-07-30 11:41,Closed
+1706,Data,2025-08-23 11:41,Closed
+1706,Call Quality,2025-09-20 11:41,Closed
+1387,Call Quality,2025-10-20 11:41,Open
+1387,Service,2025-09-27 11:41,Closed
+1367,Data,2025-10-02 11:41,Closed
+1742,Billing,2025-09-23 11:41,Closed
+1742,Support,2025-06-18 11:41,Closed
+1742,Data,2025-05-21 11:41,Open
+1138,Support,2025-08-09 11:41,Closed
+1138,Call Quality,2025-10-16 11:41,Open
+1138,Network,2025-05-27 11:41,Open
+1138,Service,2025-09-29 11:41,Open
+1138,Call Quality,2025-06-10 11:41,Closed
+1257,Support,2025-09-17 11:41,Closed
+1257,Data,2025-10-08 11:41,Closed
+1257,Network,2025-06-23 11:41,Closed
+1257,Data,2025-07-19 11:41,Closed
+1921,Billing,2025-07-31 11:41,Open
+1921,Data,2025-10-07 11:41,Closed
+1921,Service,2025-06-05 11:41,Closed
+1921,Support,2025-05-19 11:41,Closed
+1041,Call Quality,2025-05-04 11:41,Closed
+1497,Service,2025-06-01 11:41,Open
+1497,Network,2025-05-11 11:41,Open
+1497,Data,2025-10-30 11:41,Closed
+1724,Recharge,2025-08-09 11:41,Closed
+1724,Data,2025-08-23 11:41,Closed
+1724,Network,2025-10-20 11:41,Closed
+1449,Data,2025-06-21 11:41,Closed
+1449,Service,2025-08-04 11:41,Closed
+1573,Service,2025-07-16 11:41,Closed
+1573,Billing,2025-06-07 11:41,Open
+1302,Call Quality,2025-06-09 11:41,Closed
+1556,Billing,2025-06-07 11:41,Closed
+1556,Service,2025-10-15 11:41,Closed
+1556,Service,2025-08-28 11:41,Closed
+1556,Network,2025-10-10 11:41,Closed
+1714,Data,2025-08-20 11:41,Closed
+1714,Support,2025-08-10 11:41,Closed
+1714,Recharge,2025-06-20 11:41,Open
+1714,Recharge,2025-09-28 11:41,Closed
+1714,Support,2025-09-09 11:41,Closed
+1502,Support,2025-09-28 11:41,Open
+1502,Data,2025-05-13 11:41,Open
+1502,Support,2025-10-31 11:41,Open
+1502,Recharge,2025-09-29 11:41,Open
+1502,Call Quality,2025-06-09 11:41,Closed
+1195,Billing,2025-09-13 11:41,Open
+1195,Recharge,2025-07-05 11:41,Open
+1195,Call Quality,2025-10-26 11:41,Closed
+1195,Billing,2025-10-07 11:41,Closed
+1581,Recharge,2025-05-06 11:41,Open
+1581,Recharge,2025-09-12 11:41,Closed
+1581,Support,2025-08-19 11:41,Closed
+1581,Network,2025-07-17 11:41,Open
+1581,Data,2025-10-28 11:41,Closed
+1192,Billing,2025-07-09 11:41,Closed
+1192,Network,2025-09-29 11:41,Open
+1192,Support,2025-10-19 11:41,Open
+1192,Recharge,2025-07-16 11:41,Open
+1192,Data,2025-06-05 11:41,Open
+1557,Network,2025-07-07 11:41,Closed
+1557,Service,2025-07-13 11:41,Closed
+1557,Call Quality,2025-05-07 11:41,Open
+1357,Data,2025-06-17 11:41,Closed
+1357,Recharge,2025-10-19 11:41,Closed
+1357,Support,2025-06-17 11:41,Closed
+1357,Network,2025-09-05 11:41,Open
+1357,Billing,2025-07-30 11:41,Closed
+1332,Service,2025-06-12 11:41,Closed
+1332,Service,2025-08-17 11:41,Closed
+1332,Call Quality,2025-07-03 11:41,Closed
+1332,Network,2025-10-14 11:41,Closed
+1332,Call Quality,2025-09-28 11:41,Closed
+1750,Support,2025-10-15 11:41,Open
+1480,Recharge,2025-06-15 11:41,Closed
+1282,Recharge,2025-07-20 11:41,Closed
+1282,Call Quality,2025-08-09 11:41,Closed
+1282,Support,2025-09-02 11:41,Closed
+1282,Service,2025-09-16 11:41,Closed
+1889,Service,2025-07-16 11:41,Closed
+1852,Support,2025-10-24 11:41,Open
+1852,Data,2025-05-28 11:41,Closed
+1852,Service,2025-08-02 11:41,Closed
+1852,Call Quality,2025-10-07 11:41,Closed
+1614,Support,2025-07-12 11:41,Open
+1614,Call Quality,2025-07-08 11:41,Closed
+1614,Service,2025-08-30 11:41,Closed
+1882,Data,2025-06-22 11:41,Closed
+1882,Call Quality,2025-10-24 11:41,Closed
+1882,Data,2025-07-23 11:41,Open
+1882,Billing,2025-10-23 11:41,Open
+1882,Recharge,2025-05-07 11:41,Open
+1568,Call Quality,2025-05-30 11:41,Open
+1568,Network,2025-08-01 11:41,Closed
+1568,Network,2025-07-07 11:41,Open
+1568,Data,2025-05-10 11:41,Open
+1568,Data,2025-05-18 11:41,Closed
+1165,Call Quality,2025-10-04 11:41,Open
+1165,Billing,2025-06-03 11:41,Closed
+1071,Call Quality,2025-08-08 11:41,Closed
+1071,Call Quality,2025-06-01 11:41,Open
+1544,Recharge,2025-07-18 11:41,Open
+1544,Recharge,2025-10-14 11:41,Closed
+1544,Call Quality,2025-08-21 11:41,Closed
+1970,Service,2025-06-14 11:41,Open
+1970,Service,2025-07-13 11:41,Open
+1970,Recharge,2025-08-09 11:41,Closed
+1461,Service,2025-07-09 11:41,Closed
+1303,Billing,2025-08-24 11:41,Closed
+1303,Data,2025-06-24 11:41,Closed
+1840,Recharge,2025-10-16 11:41,Open
+1840,Data,2025-06-09 11:41,Closed
+1270,Call Quality,2025-10-08 11:41,Open
+1270,Call Quality,2025-08-25 11:41,Closed
+1555,Billing,2025-05-12 11:41,Open
+1376,Service,2025-07-07 11:41,Closed
+1376,Recharge,2025-05-08 11:41,Open
+1376,Call Quality,2025-10-18 11:41,Open
+1376,Call Quality,2025-05-13 11:41,Open
+1376,Network,2025-07-11 11:41,Closed
+1465,Billing,2025-09-28 11:41,Closed
+1465,Recharge,2025-09-03 11:41,Closed
+1465,Data,2025-05-21 11:41,Open
+1465,Recharge,2025-05-04 11:41,Closed
+1001,Data,2025-06-04 11:41,Closed
+1001,Call Quality,2025-07-28 11:41,Closed
+1001,Billing,2025-08-14 11:41,Open
+1001,Data,2025-08-05 11:41,Closed
+1795,Service,2025-08-29 11:41,Closed
+1654,Data,2025-06-18 11:41,Open
+1654,Call Quality,2025-08-10 11:41,Closed
+1519,Recharge,2025-10-29 11:41,Open
+1519,Call Quality,2025-10-12 11:41,Closed
+1519,Billing,2025-09-05 11:41,Closed
+1389,Billing,2025-06-08 11:41,Closed
+1389,Call Quality,2025-05-10 11:41,Closed
+1752,Recharge,2025-09-06 11:41,Open
+1752,Call Quality,2025-09-19 11:41,Closed
+1190,Service,2025-09-17 11:41,Closed
+1190,Billing,2025-05-08 11:41,Open
+1190,Support,2025-05-18 11:41,Closed
+1190,Recharge,2025-05-14 11:41,Open
+1020,Call Quality,2025-10-18 11:41,Closed
+1020,Service,2025-10-24 11:41,Closed
+1635,Billing,2025-07-02 11:41,Open
+1635,Recharge,2025-06-09 11:41,Open
+1635,Data,2025-09-01 11:41,Open
+1635,Call Quality,2025-07-05 11:41,Closed
+1635,Network,2025-05-07 11:41,Closed
+1878,Service,2025-07-21 11:41,Open
+1373,Network,2025-10-07 11:41,Open
+1373,Billing,2025-05-31 11:41,Open
+1373,Service,2025-10-03 11:41,Closed
+1373,Service,2025-05-20 11:41,Open
+1890,Service,2025-07-29 11:41,Closed
+1890,Billing,2025-07-26 11:41,Closed
+1890,Service,2025-07-25 11:41,Closed
+1890,Data,2025-05-15 11:41,Open
+1636,Billing,2025-05-20 11:41,Open
+1636,Service,2025-06-09 11:41,Closed
+1636,Call Quality,2025-06-16 11:41,Closed
+1245,Recharge,2025-06-15 11:41,Closed
+1245,Billing,2025-09-29 11:41,Closed
+1245,Service,2025-05-29 11:41,Closed
+1245,Recharge,2025-10-07 11:41,Closed
+1245,Recharge,2025-05-08 11:41,Open
+1329,Network,2025-05-05 11:41,Open
+1739,Recharge,2025-07-15 11:41,Closed
+1739,Network,2025-10-28 11:41,Closed
+1739,Call Quality,2025-06-09 11:41,Closed
+1739,Recharge,2025-09-14 11:41,Closed
+1739,Network,2025-07-04 11:41,Open
+1065,Call Quality,2025-06-19 11:41,Closed
+1065,Billing,2025-10-07 11:41,Closed
+1065,Recharge,2025-08-01 11:41,Open
+1065,Network,2025-09-23 11:41,Closed
+1065,Data,2025-06-03 11:41,Open
+1675,Service,2025-08-04 11:41,Closed
+1675,Service,2025-08-30 11:41,Closed
+1675,Billing,2025-07-13 11:41,Closed
+1675,Service,2025-06-01 11:41,Open
+1675,Service,2025-10-26 11:41,Closed
+1552,Network,2025-06-18 11:41,Open
+1552,Call Quality,2025-05-17 11:41,Open
+1552,Network,2025-07-15 11:41,Closed
+1552,Support,2025-07-07 11:41,Closed
+1839,Call Quality,2025-05-30 11:41,Open
+1397,Network,2025-06-18 11:41,Open
+1397,Data,2025-09-05 11:41,Open
+1397,Network,2025-05-22 11:41,Closed
+1397,Data,2025-08-25 11:41,Closed
+1397,Network,2025-08-19 11:41,Closed
+1916,Support,2025-06-01 11:41,Open
+1916,Network,2025-05-29 11:41,Closed
+1537,Recharge,2025-06-24 11:41,Closed
+1537,Recharge,2025-05-22 11:41,Closed
+1537,Billing,2025-09-05 11:41,Closed
+1537,Network,2025-06-10 11:41,Closed
+1700,Support,2025-08-11 11:41,Closed
+1700,Call Quality,2025-08-29 11:41,Closed
+1510,Network,2025-07-12 11:41,Closed
+1510,Billing,2025-06-05 11:41,Open
+1510,Network,2025-07-14 11:41,Open
+1785,Recharge,2025-08-29 11:41,Closed
+1785,Network,2025-07-30 11:41,Closed
+1785,Network,2025-10-05 11:41,Closed
+1785,Data,2025-09-28 11:41,Closed
+1565,Service,2025-08-17 11:41,Closed
+1952,Recharge,2025-10-02 11:41,Closed
+1952,Billing,2025-07-14 11:41,Closed
+1628,Support,2025-07-06 11:41,Closed
+1628,Network,2025-09-29 11:41,Closed
+1290,Recharge,2025-05-05 11:41,Open
+1290,Recharge,2025-05-14 11:41,Closed
+1290,Billing,2025-09-10 11:41,Closed
+1290,Recharge,2025-09-16 11:41,Closed
+1290,Service,2025-10-29 11:41,Open
+1331,Network,2025-09-07 11:41,Open
+1331,Service,2025-09-23 11:41,Open
+1331,Call Quality,2025-10-28 11:41,Closed
+1331,Network,2025-06-28 11:41,Closed
+1420,Call Quality,2025-07-04 11:41,Open
+1420,Recharge,2025-05-08 11:41,Closed
+1420,Network,2025-07-21 11:41,Closed
+1657,Billing,2025-09-30 11:41,Closed
+1657,Service,2025-08-30 11:41,Closed
+1657,Recharge,2025-10-31 11:41,Closed
+1657,Call Quality,2025-08-06 11:41,Closed
+1657,Call Quality,2025-10-31 11:41,Open
+1330,Call Quality,2025-08-10 11:41,Closed
+1114,Support,2025-05-12 11:41,Open
+1114,Call Quality,2025-07-12 11:41,Closed
+1114,Billing,2025-10-26 11:41,Closed
+1114,Data,2025-05-18 11:41,Closed
+1114,Billing,2025-08-05 11:41,Open
+1099,Recharge,2025-08-05 11:41,Open
+1099,Support,2025-08-05 11:41,Closed
+1099,Data,2025-10-16 11:41,Open
+1099,Call Quality,2025-09-24 11:41,Closed
+1536,Network,2025-07-28 11:41,Open
+1536,Recharge,2025-10-17 11:41,Closed
+1874,Support,2025-07-25 11:41,Closed
+1874,Call Quality,2025-09-09 11:41,Closed
+1069,Billing,2025-05-17 11:41,Open
+1069,Recharge,2025-07-31 11:41,Closed
+1069,Data,2025-09-09 11:41,Open
+1045,Call Quality,2025-09-17 11:41,Closed
+1045,Data,2025-08-27 11:41,Closed
+1045,Call Quality,2025-10-23 11:41,Open
+1045,Recharge,2025-06-21 11:41,Open
+1133,Network,2025-08-12 11:41,Closed
+1183,Network,2025-05-31 11:41,Open
+1033,Network,2025-10-29 11:41,Closed
+1207,Data,2025-06-25 11:41,Open
+1207,Recharge,2025-07-18 11:41,Closed
+1948,Recharge,2025-07-31 11:41,Closed
+1948,Billing,2025-10-16 11:41,Closed
+1948,Billing,2025-06-21 11:41,Open
+1948,Service,2025-07-02 11:41,Closed
+1498,Support,2025-09-29 11:41,Closed
+1498,Data,2025-09-05 11:41,Closed
+1498,Support,2025-08-29 11:41,Closed
+1498,Network,2025-07-21 11:41,Closed
+1197,Support,2025-09-04 11:41,Closed
+1197,Network,2025-05-16 11:41,Open
+1102,Network,2025-08-28 11:41,Closed
+1102,Support,2025-09-18 11:41,Closed
+1102,Service,2025-06-17 11:41,Closed
+1849,Billing,2025-07-03 11:41,Open
+1849,Data,2025-07-24 11:41,Closed
+1585,Support,2025-07-09 11:41,Closed
+1585,Data,2025-06-25 11:41,Open
+1585,Support,2025-10-21 11:41,Closed
+1585,Support,2025-06-10 11:41,Closed
+1658,Data,2025-06-14 11:41,Closed
+1658,Billing,2025-06-04 11:41,Closed
+1658,Service,2025-09-08 11:41,Closed
+1658,Support,2025-08-29 11:41,Closed
+1658,Call Quality,2025-05-05 11:41,Closed
+1398,Call Quality,2025-07-27 11:41,Closed
+1398,Support,2025-09-02 11:41,Closed
+1398,Call Quality,2025-09-25 11:41,Closed
+1398,Call Quality,2025-07-29 11:41,Open
+1398,Billing,2025-09-03 11:41,Closed
+1674,Support,2025-06-02 11:41,Open
+1674,Data,2025-08-14 11:41,Closed
+1674,Support,2025-08-26 11:41,Open
+1674,Billing,2025-07-26 11:41,Closed
+1674,Data,2025-09-30 11:41,Closed
+1917,Billing,2025-06-23 11:41,Open
+1917,Service,2025-09-18 11:41,Closed
+1917,Call Quality,2025-10-24 11:41,Open
+1539,Network,2025-08-12 11:41,Closed
+1539,Data,2025-07-24 11:41,Open
+1539,Support,2025-10-21 11:41,Closed
+1539,Call Quality,2025-06-10 11:41,Closed
+1539,Recharge,2025-08-06 11:41,Closed
+1639,Support,2025-07-15 11:41,Closed
+1951,Service,2025-08-26 11:41,Open
+1951,Call Quality,2025-06-28 11:41,Closed
+1951,Service,2025-08-18 11:41,Closed
+1605,Service,2025-06-14 11:41,Closed
+1605,Network,2025-08-18 11:41,Open
+1605,Network,2025-06-09 11:41,Closed
+1263,Support,2025-09-15 11:41,Open
+1263,Service,2025-10-02 11:41,Closed
+1263,Billing,2025-05-26 11:41,Open
+1263,Support,2025-10-14 11:41,Closed
+1051,Recharge,2025-09-23 11:41,Closed
+1051,Network,2025-06-24 11:41,Closed
+1893,Recharge,2025-09-22 11:41,Open
+1893,Service,2025-07-20 11:41,Closed
+1893,Data,2025-09-07 11:41,Closed
+1227,Service,2025-05-10 11:41,Open
+1227,Support,2025-06-12 11:41,Closed
+1621,Call Quality,2025-06-04 11:41,Closed
+1621,Network,2025-08-18 11:41,Closed
+1621,Call Quality,2025-10-27 11:41,Closed
+1621,Billing,2025-05-11 11:41,Open
+1736,Data,2025-05-21 11:41,Closed
+1736,Data,2025-08-04 11:41,Closed
+1736,Recharge,2025-09-25 11:41,Closed
+1736,Call Quality,2025-10-11 11:41,Closed
+1073,Data,2025-08-07 11:41,Open
+1014,Data,2025-06-14 11:41,Open
+1014,Support,2025-06-10 11:41,Closed
+1014,Network,2025-10-28 11:41,Closed
+1214,Support,2025-05-17 11:41,Open
+1214,Call Quality,2025-08-19 11:41,Closed
+1672,Support,2025-07-17 11:41,Open
+1504,Service,2025-06-22 11:41,Closed
+1504,Data,2025-05-28 11:41,Open
+1504,Support,2025-09-20 11:41,Closed
+1504,Service,2025-10-26 11:41,Closed
+1504,Call Quality,2025-07-12 11:41,Closed
+1082,Data,2025-09-17 11:41,Closed
+1997,Network,2025-05-07 11:41,Closed
+1997,Support,2025-07-15 11:41,Closed
+1655,Network,2025-07-30 11:41,Open
+1655,Network,2025-06-28 11:41,Closed
+1655,Service,2025-06-21 11:41,Open
+1655,Recharge,2025-08-18 11:41,Open
+1063,Billing,2025-06-06 11:41,Closed
+1998,Call Quality,2025-07-22 11:41,Closed
+1998,Service,2025-06-08 11:41,Closed
+1998,Data,2025-10-03 11:41,Closed
+1943,Billing,2025-07-20 11:41,Open
+1943,Network,2025-06-29 11:41,Closed
+1762,Network,2025-07-21 11:41,Closed
+1762,Billing,2025-06-06 11:41,Closed
+1426,Billing,2025-05-23 11:41,Open
+1378,Network,2025-05-14 11:41,Open
+1378,Service,2025-05-12 11:41,Closed
+1378,Data,2025-09-12 11:41,Open
+1378,Billing,2025-09-01 11:41,Closed
+1726,Support,2025-05-20 11:41,Closed
+1060,Service,2025-05-28 11:41,Open
+1632,Data,2025-06-25 11:41,Closed
+1632,Call Quality,2025-06-20 11:41,Closed
+1632,Billing,2025-05-11 11:41,Open
+1632,Data,2025-07-14 11:41,Closed
+1632,Network,2025-08-02 11:41,Closed
+1273,Billing,2025-09-26 11:41,Open
+1273,Service,2025-09-29 11:41,Open
+1273,Network,2025-09-16 11:41,Closed
+1273,Network,2025-07-15 11:41,Open
+1273,Network,2025-05-29 11:41,Closed
+1542,Call Quality,2025-08-05 11:41,Closed
+1542,Call Quality,2025-08-24 11:41,Open
+1542,Service,2025-06-19 11:41,Closed
+1542,Recharge,2025-08-09 11:41,Closed
+1042,Recharge,2025-07-01 11:41,Open
+1042,Billing,2025-07-23 11:41,Closed
+1042,Data,2025-06-01 11:41,Open
+1042,Service,2025-09-07 11:41,Closed
+1042,Support,2025-10-31 11:41,Open
+1886,Recharge,2025-07-26 11:41,Open
+1827,Recharge,2025-07-15 11:41,Closed
+1827,Service,2025-10-26 11:41,Closed
+1827,Data,2025-06-30 11:41,Closed
+1827,Service,2025-07-17 11:41,Closed
+1312,Service,2025-05-21 11:41,Open
+1312,Support,2025-10-24 11:41,Closed
+1080,Recharge,2025-10-23 11:41,Open
+1222,Data,2025-08-24 11:41,Open
+1222,Network,2025-06-03 11:41,Open
+1222,Call Quality,2025-08-14 11:41,Open
+1222,Billing,2025-06-16 11:41,Closed
+1532,Network,2025-07-29 11:41,Closed
+1532,Network,2025-06-04 11:41,Closed
+1100,Service,2025-07-14 11:41,Closed
+1100,Recharge,2025-10-15 11:41,Closed
+1100,Call Quality,2025-09-02 11:41,Closed
+1100,Data,2025-09-05 11:41,Closed
+1104,Billing,2025-08-28 11:41,Open
+1104,Recharge,2025-07-07 11:41,Closed
+1743,Network,2025-10-11 11:41,Open
+1743,Call Quality,2025-05-29 11:41,Open
+1237,Call Quality,2025-09-08 11:41,Open
+1545,Data,2025-08-09 11:41,Closed
+1545,Support,2025-06-12 11:41,Open
+1395,Service,2025-10-20 11:41,Closed
+1870,Support,2025-06-24 11:41,Closed
+1870,Data,2025-09-06 11:41,Closed
+1870,Support,2025-09-19 11:41,Open
+1870,Recharge,2025-05-12 11:41,Open
+1934,Support,2025-08-27 11:41,Closed
+1934,Recharge,2025-08-25 11:41,Open
+1934,Network,2025-05-12 11:41,Closed
+1934,Service,2025-10-19 11:41,Closed
+1837,Recharge,2025-09-06 11:41,Closed
+1837,Call Quality,2025-07-22 11:41,Closed
+1673,Data,2025-06-01 11:41,Closed
+1673,Call Quality,2025-09-06 11:41,Closed
+1673,Data,2025-09-02 11:41,Closed
+1673,Billing,2025-09-10 11:41,Closed
+1966,Data,2025-09-07 11:41,Closed
+1966,Call Quality,2025-10-08 11:41,Closed
+1966,Support,2025-07-15 11:41,Open
+1584,Billing,2025-10-02 11:41,Closed
+1957,Service,2025-08-01 11:41,Open
+1957,Support,2025-10-11 11:41,Closed
+1957,Recharge,2025-05-28 11:41,Open
+1184,Support,2025-08-17 11:41,Open
+1184,Network,2025-10-20 11:41,Closed
+1184,Call Quality,2025-07-03 11:41,Closed
+1817,Call Quality,2025-05-25 11:41,Open
+1817,Billing,2025-07-21 11:41,Closed
+1817,Billing,2025-06-16 11:41,Closed
+1817,Recharge,2025-05-13 11:41,Closed
+1817,Data,2025-08-20 11:41,Closed
+1768,Call Quality,2025-05-09 11:41,Open
+1768,Billing,2025-10-01 11:41,Closed
+1768,Data,2025-08-08 11:41,Closed
+1787,Billing,2025-09-27 11:41,Closed
+1787,Call Quality,2025-05-29 11:41,Closed
+1787,Support,2025-06-25 11:41,Closed
+1815,Support,2025-10-21 11:41,Closed
+1815,Support,2025-10-08 11:41,Closed
+1815,Network,2025-08-23 11:41,Closed
+1815,Service,2025-10-13 11:41,Open
+1815,Network,2025-09-18 11:41,Closed
+1765,Support,2025-05-16 11:41,Closed
+1765,Service,2025-08-14 11:41,Closed
+1765,Call Quality,2025-10-10 11:41,Open
+1109,Data,2025-05-28 11:41,Open
+1109,Billing,2025-07-12 11:41,Closed
+1109,Network,2025-08-21 11:41,Closed
+1109,Call Quality,2025-05-23 11:41,Open
+1109,Service,2025-09-10 11:41,Closed
+1907,Data,2025-10-20 11:41,Closed
+1907,Recharge,2025-06-24 11:41,Closed
+1907,Data,2025-07-07 11:41,Closed
+1907,Service,2025-10-22 11:41,Closed
+1591,Call Quality,2025-10-11 11:41,Closed
+1930,Network,2025-09-08 11:41,Closed
+1930,Call Quality,2025-07-11 11:41,Closed
+1930,Call Quality,2025-09-25 11:41,Open
+1930,Network,2025-09-14 11:41,Closed
+1930,Network,2025-08-30 11:41,Closed
+1691,Service,2025-10-26 11:41,Closed
+1691,Recharge,2025-08-23 11:41,Closed
+1470,Network,2025-10-13 11:41,Closed
+1720,Call Quality,2025-07-16 11:41,Closed
+1720,Call Quality,2025-07-08 11:41,Closed
+1720,Network,2025-08-15 11:41,Open
+1682,Billing,2025-06-22 11:41,Closed
+1682,Recharge,2025-07-22 11:41,Closed
+1438,Recharge,2025-08-23 11:41,Open
+1438,Network,2025-06-24 11:41,Closed
+1438,Billing,2025-06-07 11:41,Closed
+1438,Call Quality,2025-07-14 11:41,Closed
+1438,Service,2025-10-15 11:41,Open
+1107,Billing,2025-05-09 11:41,Open
+1107,Data,2025-07-23 11:41,Closed
+1107,Recharge,2025-05-20 11:41,Open
+1107,Call Quality,2025-10-22 11:41,Open
+1171,Network,2025-06-08 11:41,Open
+1171,Call Quality,2025-09-27 11:41,Open
+1171,Call Quality,2025-09-14 11:41,Closed
+1171,Billing,2025-09-08 11:41,Closed
+1185,Service,2025-06-04 11:41,Closed
+1185,Service,2025-07-27 11:41,Closed
+1185,Recharge,2025-07-03 11:41,Closed
+1185,Billing,2025-06-09 11:41,Closed
+1185,Support,2025-06-27 11:41,Closed
+1564,Service,2025-07-08 11:41,Open
+1564,Data,2025-09-06 11:41,Closed
+1564,Billing,2025-10-30 11:41,Closed
+1564,Recharge,2025-09-20 11:41,Closed
+1412,Service,2025-07-14 11:41,Closed
+1412,Recharge,2025-08-04 11:41,Closed
+1517,Call Quality,2025-05-09 11:41,Closed
+1517,Service,2025-05-12 11:41,Closed
+1517,Service,2025-10-20 11:41,Open
+1346,Data,2025-07-07 11:41,Closed
+1346,Call Quality,2025-07-22 11:41,Closed
+1872,Service,2025-09-17 11:41,Closed
+1965,Billing,2025-08-11 11:41,Closed
+1965,Support,2025-07-08 11:41,Open
+1965,Support,2025-07-03 11:41,Closed
+1965,Recharge,2025-06-14 11:41,Closed
+1547,Support,2025-05-12 11:41,Open
+1547,Recharge,2025-09-06 11:41,Closed
+1547,Call Quality,2025-07-28 11:41,Closed
+1547,Service,2025-05-29 11:41,Open
+1615,Billing,2025-09-10 11:41,Closed
+1615,Data,2025-08-19 11:41,Closed
+1615,Call Quality,2025-08-28 11:41,Open
+1454,Call Quality,2025-10-15 11:41,Closed
+1361,Network,2025-10-15 11:41,Open
+1361,Network,2025-08-14 11:41,Closed
+1361,Data,2025-07-23 11:41,Open
+1361,Network,2025-06-01 11:41,Open
+1323,Service,2025-10-17 11:41,Closed
+1323,Call Quality,2025-10-03 11:41,Closed
+1323,Recharge,2025-07-24 11:41,Closed
+1323,Support,2025-06-07 11:41,Closed
+1323,Data,2025-10-26 11:41,Closed
+1770,Billing,2025-06-23 11:41,Closed
+1770,Network,2025-08-06 11:41,Closed
+1770,Service,2025-08-08 11:41,Closed
+1988,Data,2025-05-09 11:41,Closed
+1969,Network,2025-10-11 11:41,Open
+1969,Network,2025-08-30 11:41,Closed
+1969,Service,2025-10-30 11:41,Closed
+1969,Recharge,2025-05-16 11:41,Closed
+1969,Data,2025-08-21 11:41,Closed
+1423,Support,2025-05-26 11:41,Open
+1423,Billing,2025-09-26 11:41,Open
+1990,Service,2025-08-23 11:41,Closed
+1990,Recharge,2025-10-23 11:41,Open
+1990,Call Quality,2025-06-30 11:41,Closed
+1990,Service,2025-06-21 11:41,Closed
+1990,Call Quality,2025-07-16 11:41,Closed
+1441,Recharge,2025-06-06 11:41,Closed
+1441,Network,2025-10-04 11:41,Closed
+1441,Network,2025-10-24 11:41,Closed
+1441,Recharge,2025-06-19 11:41,Closed
+1744,Support,2025-07-17 11:41,Closed
+1911,Network,2025-08-27 11:41,Closed
+1911,Call Quality,2025-09-30 11:41,Closed
+1911,Billing,2025-05-25 11:41,Open
+1911,Service,2025-06-07 11:41,Closed
+1911,Recharge,2025-10-28 11:41,Closed
+1624,Call Quality,2025-08-20 11:41,Closed
+1624,Billing,2025-05-22 11:41,Closed
+1624,Billing,2025-05-19 11:41,Open
+1624,Recharge,2025-07-03 11:41,Closed
+1247,Service,2025-10-22 11:41,Open
+1247,Support,2025-05-05 11:41,Closed
+1247,Recharge,2025-10-09 11:41,Closed
+1247,Call Quality,2025-08-13 11:41,Closed
+1247,Data,2025-06-06 11:41,Open
+1577,Support,2025-06-18 11:41,Closed
+1577,Recharge,2025-09-09 11:41,Closed
+1577,Network,2025-08-31 11:41,Open
+1577,Call Quality,2025-07-24 11:41,Closed
+1577,Support,2025-06-09 11:41,Open
+1559,Network,2025-05-15 11:41,Open
+1559,Call Quality,2025-07-14 11:41,Closed
+1559,Support,2025-08-22 11:41,Closed
+1220,Data,2025-07-10 11:41,Closed
+1220,Network,2025-08-23 11:41,Closed
+1220,Service,2025-09-06 11:41,Closed
+1220,Service,2025-09-23 11:41,Closed
+1220,Network,2025-05-17 11:41,Open
+1385,Network,2025-07-01 11:41,Open
+1759,Network,2025-07-09 11:41,Closed
+1759,Billing,2025-08-23 11:41,Closed
+1759,Recharge,2025-05-14 11:41,Open
+1759,Recharge,2025-09-24 11:41,Closed
+1261,Service,2025-06-01 11:41,Closed
+1261,Billing,2025-06-10 11:41,Closed
+1261,Network,2025-05-27 11:41,Open
+1261,Service,2025-06-19 11:41,Closed
+1369,Data,2025-07-12 11:41,Closed
+1369,Billing,2025-09-30 11:41,Closed
+1369,Billing,2025-08-18 11:41,Closed
+1369,Call Quality,2025-09-08 11:41,Open
+1369,Billing,2025-07-27 11:41,Closed
+1464,Support,2025-08-12 11:41,Open
+1459,Billing,2025-06-12 11:41,Open
+1459,Service,2025-08-29 11:41,Closed
+1459,Call Quality,2025-08-28 11:41,Closed
+1407,Billing,2025-10-19 11:41,Closed
+1407,Call Quality,2025-05-15 11:41,Closed
+1407,Support,2025-08-27 11:41,Closed
+1407,Service,2025-06-27 11:41,Open
+1407,Support,2025-10-15 11:41,Closed
+1891,Data,2025-05-22 11:41,Closed
+1036,Recharge,2025-05-27 11:41,Open
+1036,Network,2025-06-18 11:41,Closed
+1036,Billing,2025-05-26 11:41,Open
+1036,Recharge,2025-06-14 11:41,Closed
+1292,Service,2025-10-16 11:41,Closed
+1292,Support,2025-06-03 11:41,Open
+1292,Call Quality,2025-08-22 11:41,Closed
+1971,Support,2025-06-06 11:41,Open
+1971,Data,2025-08-06 11:41,Closed
+1971,Recharge,2025-09-06 11:41,Closed
+1971,Support,2025-09-02 11:41,Closed
+1971,Service,2025-05-27 11:41,Open
+1017,Network,2025-10-08 11:41,Closed
+1017,Recharge,2025-10-12 11:41,Open
+1017,Data,2025-05-14 11:41,Open
+1531,Network,2025-10-24 11:41,Closed
+1531,Data,2025-09-07 11:41,Open
+1531,Recharge,2025-07-17 11:41,Closed
+1531,Service,2025-05-24 11:41,Open
+1139,Network,2025-06-11 11:41,Closed
+1139,Data,2025-07-06 11:41,Closed
+1139,Data,2025-07-18 11:41,Open
+1310,Billing,2025-05-23 11:41,Closed
+1310,Data,2025-05-31 11:41,Open
+1310,Billing,2025-08-17 11:41,Closed
+1310,Call Quality,2025-10-20 11:41,Closed
+1310,Support,2025-08-02 11:41,Open
+1007,Billing,2025-05-08 11:41,Closed
+1007,Recharge,2025-10-20 11:41,Closed
+1007,Service,2025-06-19 11:41,Closed
+1007,Billing,2025-05-15 11:41,Open
+1007,Support,2025-10-31 11:41,Closed
+1308,Service,2025-08-28 11:41,Closed
+1308,Service,2025-10-10 11:41,Closed
+1308,Service,2025-07-30 11:41,Closed
+1308,Network,2025-06-27 11:41,Open
+1308,Support,2025-10-05 11:41,Open
+1228,Billing,2025-09-17 11:41,Open
+1228,Billing,2025-08-13 11:41,Open
+1228,Call Quality,2025-06-16 11:41,Closed
+1228,Call Quality,2025-08-29 11:41,Closed
+1747,Support,2025-09-05 11:41,Closed
+1747,Call Quality,2025-10-27 11:41,Closed
+1747,Billing,2025-07-20 11:41,Closed
+1747,Billing,2025-06-07 11:41,Closed
+1747,Service,2025-06-01 11:41,Open
+1760,Network,2025-05-10 11:41,Open
+1760,Network,2025-10-17 11:41,Closed
+1023,Service,2025-10-11 11:41,Closed
+1023,Support,2025-05-26 11:41,Open
+1023,Recharge,2025-06-10 11:41,Closed
+1023,Billing,2025-05-09 11:41,Open
+1707,Recharge,2025-10-30 11:41,Closed
+1707,Billing,2025-09-01 11:41,Closed
+1984,Network,2025-07-05 11:41,Closed
+1984,Service,2025-09-26 11:41,Closed
+1984,Support,2025-05-17 11:41,Open
+1984,Call Quality,2025-05-30 11:41,Closed
+1984,Recharge,2025-08-22 11:41,Closed
+1567,Call Quality,2025-10-03 11:41,Closed
+1567,Recharge,2025-05-13 11:41,Open
+1567,Data,2025-09-05 11:41,Closed
+1567,Call Quality,2025-07-02 11:41,Open
+1567,Billing,2025-09-16 11:41,Closed
+1524,Data,2025-07-23 11:41,Open
+1524,Call Quality,2025-07-11 11:41,Closed
+1524,Billing,2025-09-02 11:41,Closed
+1524,Call Quality,2025-10-10 11:41,Closed
+1524,Call Quality,2025-08-26 11:41,Closed
+1570,Support,2025-06-14 11:41,Closed
+1842,Recharge,2025-07-31 11:41,Closed
+1842,Network,2025-09-10 11:41,Closed
+1842,Service,2025-10-05 11:41,Closed
+1842,Support,2025-06-06 11:41,Closed
+1586,Call Quality,2025-10-23 11:41,Closed
+1586,Service,2025-09-01 11:41,Closed
+1586,Network,2025-10-10 11:41,Closed
+1586,Call Quality,2025-10-27 11:41,Open
+1899,Network,2025-06-06 11:41,Closed
+1899,Data,2025-06-13 11:41,Closed
+1899,Service,2025-05-29 11:41,Open
+1899,Support,2025-09-07 11:41,Closed
+1097,Billing,2025-09-23 11:41,Open
+1097,Support,2025-08-03 11:41,Closed
+1039,Service,2025-06-17 11:41,Open
+1039,Support,2025-05-20 11:41,Open
+1472,Network,2025-10-09 11:41,Open
+1959,Recharge,2025-06-30 11:41,Closed
+1959,Service,2025-07-30 11:41,Closed
+1959,Service,2025-05-15 11:41,Closed
+1959,Network,2025-07-11 11:41,Open
+1959,Billing,2025-10-31 11:41,Closed
+1160,Billing,2025-06-01 11:41,Closed
+1160,Service,2025-10-07 11:41,Open
+1160,Billing,2025-09-24 11:41,Open
+1160,Call Quality,2025-06-15 11:41,Open
+1142,Network,2025-08-04 11:41,Closed
+1142,Service,2025-08-25 11:41,Closed
+1272,Call Quality,2025-06-12 11:41,Closed
+1831,Billing,2025-06-08 11:41,Closed
+1831,Recharge,2025-08-24 11:41,Open
+1831,Service,2025-07-05 11:41,Closed
+1597,Data,2025-07-16 11:41,Closed
+1597,Support,2025-05-25 11:41,Open
+1597,Support,2025-08-18 11:41,Closed
+1256,Recharge,2025-09-16 11:41,Closed
+1256,Service,2025-06-08 11:41,Closed
+1945,Recharge,2025-08-16 11:41,Closed
+1945,Recharge,2025-05-11 11:41,Open
+1945,Call Quality,2025-05-06 11:41,Closed
+1945,Billing,2025-05-21 11:41,Open
+1833,Service,2025-08-14 11:41,Closed
+1833,Billing,2025-08-23 11:41,Closed
+1833,Call Quality,2025-05-13 11:41,Closed
+1730,Billing,2025-09-28 11:41,Closed
+1730,Recharge,2025-08-19 11:41,Closed
+1095,Billing,2025-07-31 11:41,Closed
+1095,Data,2025-09-16 11:41,Closed
+1095,Recharge,2025-10-30 11:41,Closed
+1776,Data,2025-09-20 11:41,Closed
+1776,Support,2025-10-29 11:41,Closed
+1410,Billing,2025-07-20 11:41,Open
+1410,Support,2025-09-18 11:41,Closed
+1583,Data,2025-09-14 11:41,Closed
+1583,Billing,2025-06-27 11:41,Closed
+1223,Service,2025-07-30 11:41,Closed
+1223,Billing,2025-05-09 11:41,Closed
+1223,Support,2025-10-02 11:41,Closed
+1223,Call Quality,2025-07-20 11:41,Closed
+1223,Billing,2025-09-10 11:41,Open
+1804,Call Quality,2025-07-09 11:41,Closed
+1804,Billing,2025-06-04 11:41,Open
+1804,Support,2025-08-26 11:41,Open
+1758,Network,2025-07-29 11:41,Closed
+1758,Support,2025-08-01 11:41,Closed
+1758,Service,2025-10-21 11:41,Closed
+1758,Data,2025-08-08 11:41,Closed
+1495,Data,2025-07-26 11:41,Closed
+1178,Billing,2025-08-28 11:41,Closed
+1178,Service,2025-08-20 11:41,Closed
+1178,Billing,2025-05-24 11:41,Open
+1946,Recharge,2025-06-06 11:41,Closed
+1946,Billing,2025-08-26 11:41,Closed
+1946,Data,2025-10-24 11:41,Closed
+1946,Data,2025-10-01 11:41,Closed
+1780,Recharge,2025-09-30 11:41,Closed
+1780,Call Quality,2025-08-24 11:41,Closed
+1780,Service,2025-08-18 11:41,Closed
+1098,Network,2025-09-10 11:41,Closed
+1098,Network,2025-08-29 11:41,Open
+1610,Recharge,2025-08-28 11:41,Open
+1610,Data,2025-06-13 11:41,Closed
+1841,Service,2025-10-05 11:41,Closed
+1972,Support,2025-06-03 11:41,Closed
+1716,Data,2025-05-14 11:41,Open
+1716,Support,2025-06-03 11:41,Open
+1716,Support,2025-08-07 11:41,Closed
+1694,Service,2025-05-11 11:41,Open
+1694,Service,2025-06-09 11:41,Closed
+1694,Support,2025-05-16 11:41,Open
+1694,Network,2025-06-28 11:41,Closed
+1391,Data,2025-06-04 11:41,Closed
+1081,Recharge,2025-05-15 11:41,Open
+1058,Data,2025-07-22 11:41,Closed
+1058,Service,2025-07-29 11:41,Closed
+1058,Service,2025-09-02 11:41,Closed
+1058,Data,2025-06-08 11:41,Closed
+1058,Call Quality,2025-08-27 11:41,Closed
+1343,Billing,2025-07-26 11:41,Closed
+1343,Network,2025-08-11 11:41,Closed
+1912,Billing,2025-09-19 11:41,Closed
+1912,Call Quality,2025-07-14 11:41,Open
+1912,Call Quality,2025-06-15 11:41,Open
+1989,Service,2025-10-12 11:41,Closed
+1989,Call Quality,2025-09-24 11:41,Open
+1989,Data,2025-10-15 11:41,Open
+1989,Data,2025-06-22 11:41,Open
+1989,Data,2025-09-26 11:41,Closed
+1427,Billing,2025-09-09 11:41,Open
+1427,Data,2025-10-19 11:41,Closed
+1427,Support,2025-05-08 11:41,Open
+1427,Service,2025-07-05 11:41,Closed
+1124,Data,2025-09-17 11:41,Closed
+1233,Billing,2025-10-01 11:41,Closed
+1233,Support,2025-05-09 11:41,Open
+1233,Recharge,2025-06-19 11:41,Open
+1233,Support,2025-09-16 11:41,Closed
+1669,Billing,2025-05-27 11:41,Open
+1669,Network,2025-09-19 11:41,Closed
+1669,Network,2025-06-09 11:41,Closed
+1617,Support,2025-06-12 11:41,Closed
+1012,Data,2025-05-19 11:41,Open
+1012,Billing,2025-06-19 11:41,Open
+1650,Billing,2025-08-11 11:41,Closed
+1650,Recharge,2025-06-09 11:41,Closed
+1650,Recharge,2025-07-09 11:41,Open
+1648,Network,2025-06-24 11:41,Closed
+1392,Service,2025-09-11 11:41,Closed
+1392,Support,2025-06-02 11:41,Open
+1392,Recharge,2025-07-24 11:41,Closed
+1392,Recharge,2025-05-20 11:41,Open
+1056,Network,2025-10-13 11:41,Open
+1056,Data,2025-07-11 11:41,Open
+1056,Service,2025-07-06 11:41,Closed
+1056,Data,2025-07-20 11:41,Closed
+1313,Service,2025-05-25 11:41,Closed
+1313,Network,2025-09-09 11:41,Closed
+1313,Data,2025-08-07 11:41,Closed
+1313,Data,2025-07-05 11:41,Closed
+1869,Billing,2025-08-27 11:41,Open
+1869,Service,2025-08-30 11:41,Closed
+1869,Network,2025-10-18 11:41,Open
+1869,Recharge,2025-05-19 11:41,Open
+1869,Support,2025-10-04 11:41,Closed
+1043,Network,2025-10-12 11:41,Closed
+1043,Network,2025-05-15 11:41,Closed
+1043,Data,2025-09-17 11:41,Open
+1327,Recharge,2025-05-26 11:41,Closed
+1327,Service,2025-06-04 11:41,Closed
+1327,Support,2025-09-23 11:41,Closed
+1553,Data,2025-10-07 11:41,Closed
+1553,Support,2025-10-25 11:41,Closed
+1579,Network,2025-07-12 11:41,Closed
+1579,Network,2025-07-30 11:41,Closed
+1579,Support,2025-10-04 11:41,Open
+1579,Network,2025-10-28 11:41,Open
+1154,Billing,2025-09-02 11:41,Open
+1154,Network,2025-10-23 11:41,Closed
+1154,Call Quality,2025-09-23 11:41,Closed
+1154,Data,2025-08-12 11:41,Open
+1154,Call Quality,2025-10-17 11:41,Open
+1335,Service,2025-05-11 11:41,Closed
+1335,Call Quality,2025-08-25 11:41,Open
+1335,Service,2025-08-02 11:41,Closed
+1335,Support,2025-10-04 11:41,Closed
+1335,Service,2025-06-18 11:41,Open
+1515,Support,2025-08-30 11:41,Closed
+1830,Network,2025-05-06 11:41,Closed
+1830,Service,2025-05-09 11:41,Open
+1830,Call Quality,2025-10-25 11:41,Closed
+1830,Billing,2025-06-22 11:41,Closed
+1157,Recharge,2025-07-02 11:41,Closed
+1157,Support,2025-05-13 11:41,Open
+1052,Billing,2025-06-26 11:41,Closed
+1052,Recharge,2025-10-14 11:41,Open
+1052,Data,2025-07-14 11:41,Closed
+1052,Data,2025-06-16 11:41,Closed
+1052,Call Quality,2025-10-19 11:41,Closed
+1403,Network,2025-10-01 11:41,Open
+1457,Data,2025-07-09 11:41,Closed
+1457,Call Quality,2025-09-14 11:41,Closed
+1692,Billing,2025-10-24 11:41,Closed
+1692,Data,2025-10-25 11:41,Closed
+1590,Call Quality,2025-08-21 11:41,Open
+1786,Service,2025-08-22 11:41,Closed
+1786,Billing,2025-07-13 11:41,Closed
+1786,Support,2025-09-07 11:41,Open
+1093,Support,2025-05-16 11:41,Open
+1093,Recharge,2025-09-17 11:41,Closed
+1729,Network,2025-08-12 11:41,Closed
+1443,Service,2025-09-27 11:41,Open
+1297,Recharge,2025-10-27 11:41,Open
+1297,Network,2025-07-06 11:41,Closed
+1404,Billing,2025-07-22 11:41,Open
+1404,Recharge,2025-05-11 11:41,Open
+1404,Data,2025-05-10 11:41,Closed
+1152,Network,2025-07-07 11:41,Open
+1152,Network,2025-09-02 11:41,Closed
+1152,Service,2025-05-17 11:41,Open
+1136,Billing,2025-07-03 11:41,Closed
+1136,Call Quality,2025-05-28 11:41,Open
+1136,Billing,2025-09-29 11:41,Open
+1136,Billing,2025-05-19 11:41,Open
+1136,Service,2025-07-23 11:41,Open
+1345,Service,2025-05-19 11:41,Open
+1345,Support,2025-05-18 11:41,Closed
+1085,Billing,2025-05-20 11:41,Closed
+1085,Data,2025-05-18 11:41,Open
+1085,Service,2025-07-18 11:41,Closed
+1085,Billing,2025-08-14 11:41,Closed
+1488,Service,2025-10-04 11:41,Open
+1488,Recharge,2025-08-28 11:41,Closed
+1835,Data,2025-10-09 11:41,Open
+1835,Call Quality,2025-07-29 11:41,Open
+1835,Data,2025-08-28 11:41,Closed
+1835,Network,2025-10-01 11:41,Open
+1832,Data,2025-05-07 11:41,Closed
+1562,Service,2025-10-02 11:41,Closed
+1409,Call Quality,2025-06-05 11:41,Closed
+1409,Recharge,2025-08-02 11:41,Closed
+1409,Recharge,2025-10-09 11:41,Closed
+1409,Network,2025-07-05 11:41,Open
+1409,Network,2025-05-19 11:41,Open
+1269,Data,2025-08-23 11:41,Closed
+1269,Data,2025-07-22 11:41,Closed
+1269,Recharge,2025-06-10 11:41,Closed
+1269,Support,2025-10-05 11:41,Closed
+1269,Billing,2025-08-06 11:41,Closed
+1088,Data,2025-07-03 11:41,Open
+1789,Network,2025-07-31 11:41,Closed
+1789,Network,2025-10-14 11:41,Open
+1789,Network,2025-07-30 11:41,Closed
+1789,Call Quality,2025-10-28 11:41,Closed
+1514,Support,2025-10-28 11:41,Closed
+1514,Support,2025-10-08 11:41,Closed
+1514,Network,2025-07-27 11:41,Open
+1514,Service,2025-08-28 11:41,Open
+1514,Network,2025-09-07 11:41,Open
+1940,Network,2025-10-28 11:41,Closed
+1940,Network,2025-10-10 11:41,Closed
+1134,Service,2025-07-27 11:41,Closed
+1134,Recharge,2025-06-25 11:41,Closed
+1134,Support,2025-05-05 11:41,Open
+1134,Support,2025-05-22 11:41,Open
+1733,Network,2025-06-02 11:41,Open
+1733,Network,2025-08-24 11:41,Closed
+1733,Billing,2025-05-15 11:41,Open
+1733,Support,2025-06-23 11:41,Closed
+1733,Support,2025-06-29 11:41,Closed
+1493,Network,2025-09-22 11:41,Closed
+1493,Billing,2025-06-23 11:41,Closed
+1493,Billing,2025-07-10 11:41,Open
+1926,Call Quality,2025-08-09 11:41,Open
+1926,Network,2025-07-29 11:41,Closed
+1203,Support,2025-07-04 11:41,Closed
+1203,Network,2025-10-20 11:41,Closed
+1203,Billing,2025-05-20 11:41,Open
+1203,Service,2025-06-06 11:41,Closed
+1695,Recharge,2025-09-17 11:41,Closed
+1695,Data,2025-07-24 11:41,Closed
+1405,Service,2025-05-15 11:41,Closed
+1405,Network,2025-10-01 11:41,Closed
+1644,Network,2025-07-26 11:41,Open
+1644,Service,2025-10-12 11:41,Closed
+1201,Data,2025-09-11 11:41,Closed
+1201,Call Quality,2025-06-26 11:41,Open
+1575,Data,2025-10-20 11:41,Open
+1575,Data,2025-06-15 11:41,Closed
+1575,Service,2025-10-16 11:41,Closed
+1575,Data,2025-09-08 11:41,Closed
+1670,Call Quality,2025-07-25 11:41,Closed
+1670,Call Quality,2025-09-15 11:41,Closed
+1253,Support,2025-09-02 11:41,Closed
+1253,Service,2025-10-14 11:41,Open
+1253,Network,2025-06-26 11:41,Closed
+1253,Service,2025-08-27 11:41,Closed
+1979,Support,2025-06-28 11:41,Closed
+1979,Data,2025-08-08 11:41,Closed
+1979,Support,2025-08-07 11:41,Open
+1979,Service,2025-06-07 11:41,Open
+1074,Data,2025-08-25 11:41,Closed
+1074,Data,2025-07-01 11:41,Open
+1074,Data,2025-08-31 11:41,Closed
+1810,Recharge,2025-08-27 11:41,Closed
+1810,Support,2025-08-16 11:41,Closed
+1810,Support,2025-07-24 11:41,Closed
+1810,Network,2025-05-10 11:41,Open
+1754,Call Quality,2025-07-10 11:41,Open
+1754,Billing,2025-08-03 11:41,Closed
+1807,Data,2025-09-12 11:41,Open
+1807,Network,2025-07-13 11:41,Open
+1807,Billing,2025-06-03 11:41,Open
+1807,Data,2025-05-13 11:41,Open
+1807,Network,2025-07-28 11:41,Closed
+1656,Call Quality,2025-07-20 11:41,Closed
+1656,Call Quality,2025-06-21 11:41,Closed
+1656,Support,2025-09-20 11:41,Open
+1967,Service,2025-07-15 11:41,Closed
+1967,Recharge,2025-08-15 11:41,Open
+1967,Call Quality,2025-09-01 11:41,Closed
+1992,Network,2025-07-01 11:41,Closed
+1992,Network,2025-09-02 11:41,Closed
+1992,Support,2025-08-30 11:41,Open
+1992,Service,2025-07-23 11:41,Closed
+1424,Recharge,2025-10-29 11:41,Closed
+1424,Recharge,2025-08-24 11:41,Open
+1424,Network,2025-08-07 11:41,Closed
+1424,Call Quality,2025-07-21 11:41,Open
+1434,Service,2025-10-19 11:41,Closed
+1434,Network,2025-07-29 11:41,Closed
+1434,Call Quality,2025-08-20 11:41,Closed
+1434,Data,2025-10-27 11:41,Closed
+1375,Billing,2025-10-01 11:41,Open
+1375,Network,2025-06-08 11:41,Closed
+1375,Call Quality,2025-09-26 11:41,Closed
+1994,Recharge,2025-06-25 11:41,Open
+1994,Recharge,2025-09-17 11:41,Closed
+1994,Billing,2025-09-02 11:41,Closed
+1994,Recharge,2025-09-26 11:41,Closed
+1196,Billing,2025-06-16 11:41,Closed
+1877,Data,2025-10-27 11:41,Closed
+1353,Network,2025-06-20 11:41,Open
+1025,Network,2025-07-15 11:41,Closed
+1025,Call Quality,2025-07-17 11:41,Open
+1025,Billing,2025-08-28 11:41,Closed
+1025,Billing,2025-09-13 11:41,Closed
+1671,Recharge,2025-08-17 11:41,Closed
+1671,Network,2025-06-01 11:41,Closed
+1671,Recharge,2025-08-19 11:41,Open
+1174,Network,2025-06-25 11:41,Closed
+1174,Recharge,2025-07-22 11:41,Closed
+1174,Data,2025-06-13 11:41,Closed
+1174,Network,2025-10-01 11:41,Closed
+1359,Billing,2025-06-24 11:41,Closed
+1359,Billing,2025-08-26 11:41,Closed
+1359,Service,2025-10-05 11:41,Closed
+1453,Data,2025-07-27 11:41,Closed
+1453,Recharge,2025-08-29 11:41,Open
+1453,Support,2025-05-27 11:41,Closed
+1453,Support,2025-08-28 11:41,Closed
+1453,Data,2025-08-12 11:41,Closed
+1150,Network,2025-07-06 11:41,Closed
+1150,Recharge,2025-08-29 11:41,Closed
+1150,Data,2025-10-29 11:41,Open
+1150,Call Quality,2025-08-12 11:41,Open
+1452,Support,2025-06-13 11:41,Closed
+1452,Billing,2025-10-21 11:41,Closed
+1046,Service,2025-08-17 11:41,Open
+1046,Billing,2025-08-06 11:41,Open
+1046,Service,2025-09-10 11:41,Closed
+1046,Recharge,2025-08-16 11:41,Closed

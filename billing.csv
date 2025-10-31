@@ -1,0 +1,1001 @@
+customer_id,tenure,contract_type,monthly_charges,churn
+1001,7,Month-to-Month,426,No
+1002,8,Month-to-Month,258,No
+1003,7,Month-to-Month,245,Yes
+1004,11,Month-to-Month,253,No
+1005,47,Two Year,331,No
+1006,27,One Year,459,No
+1007,35,Two Year,678,Yes
+1008,2,Month-to-Month,261,Yes
+1009,44,Two Year,666,No
+1010,22,Month-to-Month,390,Yes
+1011,17,Month-to-Month,682,Yes
+1012,10,Month-to-Month,639,Yes
+1013,35,One Year,274,No
+1014,17,One Year,779,No
+1015,14,Two Year,684,No
+1016,12,One Year,142,Yes
+1017,7,Month-to-Month,554,No
+1018,14,Month-to-Month,299,No
+1019,37,Two Year,843,Yes
+1020,20,Month-to-Month,251,Yes
+1021,33,One Year,347,No
+1022,14,Month-to-Month,179,Yes
+1023,8,Month-to-Month,538,Yes
+1024,35,One Year,208,Yes
+1025,4,Month-to-Month,385,Yes
+1026,37,Two Year,718,No
+1027,42,Two Year,459,No
+1028,21,Month-to-Month,597,Yes
+1029,26,One Year,489,Yes
+1030,56,Two Year,104,No
+1031,18,One Year,302,No
+1032,7,Month-to-Month,757,Yes
+1033,6,One Year,683,No
+1034,11,Month-to-Month,265,Yes
+1035,8,One Year,600,No
+1036,16,Two Year,679,No
+1037,7,Month-to-Month,421,Yes
+1038,12,Month-to-Month,129,No
+1039,23,Month-to-Month,617,Yes
+1040,24,Month-to-Month,440,No
+1041,12,Month-to-Month,796,Yes
+1042,20,One Year,180,No
+1043,16,Two Year,508,No
+1044,7,Month-to-Month,468,Yes
+1045,20,One Year,153,No
+1046,10,Month-to-Month,290,Yes
+1047,7,Month-to-Month,441,Yes
+1048,43,Two Year,413,No
+1049,11,Month-to-Month,113,Yes
+1050,18,One Year,279,Yes
+1051,32,One Year,377,Yes
+1052,39,Two Year,771,No
+1053,17,Two Year,360,No
+1054,12,Month-to-Month,788,Yes
+1055,35,One Year,607,Yes
+1056,23,Month-to-Month,408,No
+1057,30,One Year,452,Yes
+1058,20,Month-to-Month,284,Yes
+1059,50,Two Year,383,No
+1060,48,Two Year,424,No
+1061,15,One Year,618,No
+1062,29,One Year,394,Yes
+1063,35,One Year,697,Yes
+1064,17,One Year,697,Yes
+1065,13,Two Year,648,Yes
+1066,48,Two Year,342,No
+1067,7,One Year,232,No
+1068,28,One Year,401,No
+1069,24,One Year,331,No
+1070,55,Two Year,632,No
+1071,28,One Year,474,Yes
+1072,17,Month-to-Month,341,Yes
+1073,24,Month-to-Month,285,Yes
+1074,21,One Year,289,Yes
+1075,14,One Year,242,No
+1076,27,Two Year,455,No
+1077,4,Month-to-Month,641,Yes
+1078,14,Two Year,806,Yes
+1079,31,Two Year,765,No
+1080,50,Two Year,188,Yes
+1081,18,Month-to-Month,241,Yes
+1082,8,One Year,455,No
+1083,16,Month-to-Month,221,Yes
+1084,13,Two Year,442,No
+1085,16,Two Year,94,No
+1086,52,Two Year,294,Yes
+1087,59,Two Year,387,No
+1088,31,Two Year,354,No
+1089,44,Two Year,848,No
+1090,13,One Year,236,No
+1091,3,Month-to-Month,359,Yes
+1092,18,Month-to-Month,296,Yes
+1093,46,Two Year,324,No
+1094,44,Two Year,567,No
+1095,21,One Year,328,No
+1096,1,Month-to-Month,723,No
+1097,27,One Year,545,No
+1098,19,One Year,244,Yes
+1099,6,Month-to-Month,564,Yes
+1100,22,Month-to-Month,339,No
+1101,38,Two Year,295,No
+1102,1,Month-to-Month,443,Yes
+1103,44,Two Year,662,No
+1104,16,Month-to-Month,199,Yes
+1105,8,One Year,389,Yes
+1106,17,Month-to-Month,266,No
+1107,26,One Year,765,No
+1108,33,One Year,318,No
+1109,24,Month-to-Month,324,No
+1110,46,Two Year,352,No
+1111,32,Two Year,376,No
+1112,18,Month-to-Month,772,Yes
+1113,3,Month-to-Month,246,Yes
+1114,43,Two Year,433,No
+1115,17,Month-to-Month,289,Yes
+1116,11,Month-to-Month,433,No
+1117,40,Two Year,785,No
+1118,36,Two Year,569,Yes
+1119,18,Two Year,104,No
+1120,12,Two Year,804,Yes
+1121,25,Two Year,762,Yes
+1122,33,One Year,422,Yes
+1123,36,Two Year,848,Yes
+1124,27,One Year,520,No
+1125,22,Month-to-Month,523,Yes
+1126,15,Month-to-Month,303,No
+1127,44,Two Year,365,No
+1128,33,One Year,161,No
+1129,12,One Year,350,Yes
+1130,56,Two Year,194,Yes
+1131,28,One Year,205,No
+1132,53,Two Year,331,Yes
+1133,24,One Year,198,No
+1134,28,One Year,611,No
+1135,35,One Year,454,No
+1136,14,One Year,328,No
+1137,6,One Year,370,Yes
+1138,27,One Year,185,No
+1139,51,Two Year,502,No
+1140,12,Two Year,489,No
+1141,27,One Year,471,Yes
+1142,16,Month-to-Month,669,Yes
+1143,30,One Year,402,Yes
+1144,15,Month-to-Month,286,Yes
+1145,16,Month-to-Month,528,No
+1146,4,Month-to-Month,538,Yes
+1147,34,Two Year,308,No
+1148,22,Month-to-Month,282,Yes
+1149,42,Two Year,686,No
+1150,12,Two Year,68,Yes
+1151,35,Two Year,486,No
+1152,22,One Year,292,Yes
+1153,24,Month-to-Month,561,Yes
+1154,1,Month-to-Month,676,Yes
+1155,23,Two Year,187,No
+1156,54,Two Year,733,No
+1157,24,Two Year,255,No
+1158,14,Month-to-Month,436,Yes
+1159,28,One Year,246,No
+1160,34,One Year,681,Yes
+1161,14,One Year,402,Yes
+1162,21,Month-to-Month,716,Yes
+1163,40,Two Year,286,No
+1164,34,One Year,435,Yes
+1165,5,Month-to-Month,704,Yes
+1166,59,Two Year,180,No
+1167,24,Month-to-Month,375,Yes
+1168,12,Month-to-Month,244,Yes
+1169,28,One Year,464,No
+1170,52,Two Year,351,No
+1171,31,Two Year,631,No
+1172,19,Month-to-Month,425,Yes
+1173,17,One Year,428,No
+1174,17,One Year,441,Yes
+1175,19,One Year,584,No
+1176,19,Month-to-Month,309,No
+1177,16,Two Year,287,Yes
+1178,36,Two Year,245,No
+1179,7,Month-to-Month,199,No
+1180,50,Two Year,393,No
+1181,16,Two Year,286,No
+1182,18,Month-to-Month,745,No
+1183,21,Two Year,785,No
+1184,49,Two Year,196,No
+1185,13,One Year,455,No
+1186,18,Month-to-Month,453,Yes
+1187,2,Month-to-Month,82,Yes
+1188,48,Two Year,293,Yes
+1189,12,Two Year,264,No
+1190,36,Two Year,581,No
+1191,47,Two Year,137,Yes
+1192,34,One Year,421,Yes
+1193,10,Month-to-Month,718,No
+1194,3,Month-to-Month,462,Yes
+1195,23,One Year,394,Yes
+1196,31,Two Year,180,No
+1197,24,Two Year,609,Yes
+1198,36,Two Year,399,No
+1199,55,Two Year,382,No
+1200,15,Month-to-Month,377,Yes
+1201,32,Two Year,498,No
+1202,25,One Year,144,No
+1203,25,Two Year,292,No
+1204,21,Month-to-Month,832,No
+1205,14,Two Year,631,No
+1206,15,One Year,288,Yes
+1207,8,Month-to-Month,321,Yes
+1208,19,Two Year,362,No
+1209,4,Month-to-Month,374,No
+1210,39,Two Year,334,No
+1211,14,One Year,750,No
+1212,19,One Year,829,No
+1213,23,One Year,351,No
+1214,30,One Year,608,No
+1215,29,One Year,499,Yes
+1216,10,One Year,300,No
+1217,12,Two Year,305,No
+1218,32,Two Year,393,No
+1219,30,One Year,707,No
+1220,14,One Year,376,No
+1221,21,Month-to-Month,761,Yes
+1222,10,One Year,608,No
+1223,5,Month-to-Month,184,Yes
+1224,22,One Year,211,No
+1225,14,One Year,100,No
+1226,56,Two Year,707,Yes
+1227,8,Month-to-Month,274,Yes
+1228,42,Two Year,259,No
+1229,31,One Year,516,Yes
+1230,8,One Year,370,No
+1231,12,Month-to-Month,594,Yes
+1232,17,Month-to-Month,536,No
+1233,19,One Year,801,No
+1234,50,Two Year,608,No
+1235,18,Month-to-Month,328,Yes
+1236,15,Month-to-Month,635,Yes
+1237,49,Two Year,184,No
+1238,19,Month-to-Month,362,No
+1239,40,Two Year,431,No
+1240,10,Month-to-Month,405,Yes
+1241,24,Month-to-Month,251,No
+1242,6,Month-to-Month,327,Yes
+1243,11,Month-to-Month,206,No
+1244,58,Two Year,377,No
+1245,16,One Year,188,No
+1246,51,Two Year,257,No
+1247,3,Month-to-Month,436,No
+1248,18,Month-to-Month,331,Yes
+1249,30,Two Year,245,No
+1250,15,One Year,219,No
+1251,11,One Year,182,No
+1252,14,One Year,150,No
+1253,57,Two Year,160,Yes
+1254,13,Month-to-Month,247,Yes
+1255,15,Month-to-Month,325,No
+1256,11,Month-to-Month,257,No
+1257,28,Two Year,210,No
+1258,1,Month-to-Month,169,Yes
+1259,8,One Year,448,No
+1260,33,Two Year,90,Yes
+1261,23,Month-to-Month,256,No
+1262,56,Two Year,730,No
+1263,19,Month-to-Month,158,Yes
+1264,20,One Year,529,No
+1265,49,Two Year,282,No
+1266,10,One Year,115,No
+1267,30,One Year,507,No
+1268,12,Month-to-Month,830,Yes
+1269,24,Two Year,285,No
+1270,15,Two Year,609,No
+1271,9,Month-to-Month,303,Yes
+1272,58,Two Year,487,No
+1273,27,One Year,293,No
+1274,19,Two Year,600,No
+1275,15,One Year,674,No
+1276,11,One Year,494,Yes
+1277,7,One Year,398,No
+1278,6,One Year,219,Yes
+1279,17,Two Year,230,No
+1280,15,Two Year,198,No
+1281,9,Month-to-Month,422,Yes
+1282,8,Month-to-Month,413,No
+1283,35,Two Year,377,No
+1284,7,One Year,691,No
+1285,15,Two Year,300,Yes
+1286,22,One Year,204,No
+1287,30,One Year,421,No
+1288,16,One Year,566,Yes
+1289,19,Month-to-Month,365,Yes
+1290,16,Two Year,592,No
+1291,9,One Year,393,No
+1292,17,Month-to-Month,335,No
+1293,12,Two Year,280,No
+1294,49,Two Year,387,No
+1295,18,One Year,441,No
+1296,21,Two Year,547,No
+1297,12,Month-to-Month,191,Yes
+1298,25,One Year,532,Yes
+1299,10,One Year,330,No
+1300,22,Two Year,180,No
+1301,17,Month-to-Month,179,No
+1302,33,One Year,462,No
+1303,21,Month-to-Month,261,Yes
+1304,46,Two Year,696,No
+1305,13,One Year,618,No
+1306,33,One Year,420,No
+1307,48,Two Year,478,No
+1308,3,Month-to-Month,318,Yes
+1309,30,Two Year,188,No
+1310,15,Two Year,279,Yes
+1311,18,Month-to-Month,516,Yes
+1312,50,Two Year,706,No
+1313,24,One Year,270,No
+1314,23,Month-to-Month,254,Yes
+1315,1,Month-to-Month,346,Yes
+1316,51,Two Year,291,No
+1317,24,One Year,380,Yes
+1318,14,Two Year,581,Yes
+1319,20,Month-to-Month,274,Yes
+1320,40,Two Year,375,No
+1321,30,One Year,278,No
+1322,4,Month-to-Month,812,Yes
+1323,10,Month-to-Month,176,No
+1324,10,Month-to-Month,204,Yes
+1325,13,Month-to-Month,354,Yes
+1326,4,Month-to-Month,379,Yes
+1327,34,One Year,456,No
+1328,9,One Year,351,No
+1329,32,One Year,358,No
+1330,19,Month-to-Month,466,Yes
+1331,54,Two Year,500,No
+1332,20,Month-to-Month,133,No
+1333,51,Two Year,220,No
+1334,19,Two Year,118,Yes
+1335,37,Two Year,407,No
+1336,51,Two Year,469,No
+1337,13,One Year,708,Yes
+1338,21,One Year,301,No
+1339,10,One Year,381,Yes
+1340,17,Month-to-Month,171,Yes
+1341,31,One Year,128,No
+1342,25,Two Year,485,No
+1343,27,One Year,556,Yes
+1344,57,Two Year,298,No
+1345,31,One Year,625,No
+1346,6,One Year,830,Yes
+1347,8,Month-to-Month,632,Yes
+1348,14,One Year,407,Yes
+1349,21,Month-to-Month,748,Yes
+1350,11,Month-to-Month,472,Yes
+1351,7,Month-to-Month,449,Yes
+1352,17,Month-to-Month,284,Yes
+1353,35,Two Year,261,No
+1354,1,Month-to-Month,254,Yes
+1355,54,Two Year,418,No
+1356,32,Two Year,278,No
+1357,31,Two Year,657,No
+1358,33,Two Year,687,Yes
+1359,8,Month-to-Month,168,Yes
+1360,1,Month-to-Month,412,Yes
+1361,29,One Year,498,Yes
+1362,35,One Year,382,No
+1363,13,Month-to-Month,478,Yes
+1364,51,Two Year,85,No
+1365,6,One Year,241,No
+1366,15,Month-to-Month,355,No
+1367,23,One Year,333,No
+1368,15,Two Year,467,Yes
+1369,7,Month-to-Month,211,Yes
+1370,21,Two Year,334,Yes
+1371,1,Month-to-Month,190,No
+1372,33,One Year,471,Yes
+1373,8,Month-to-Month,528,No
+1374,35,Two Year,375,No
+1375,27,One Year,364,No
+1376,24,One Year,447,Yes
+1377,43,Two Year,214,No
+1378,24,Month-to-Month,355,No
+1379,28,One Year,229,No
+1380,7,Month-to-Month,294,Yes
+1381,19,Month-to-Month,676,No
+1382,47,Two Year,515,No
+1383,2,Month-to-Month,801,No
+1384,14,Two Year,307,Yes
+1385,31,Two Year,446,Yes
+1386,11,One Year,541,No
+1387,7,One Year,300,No
+1388,25,One Year,409,Yes
+1389,10,Month-to-Month,326,Yes
+1390,14,Month-to-Month,390,No
+1391,24,One Year,371,No
+1392,20,Two Year,725,No
+1393,50,Two Year,371,Yes
+1394,11,Month-to-Month,646,Yes
+1395,13,Month-to-Month,183,No
+1396,11,Month-to-Month,322,Yes
+1397,26,One Year,290,No
+1398,14,One Year,199,No
+1399,5,Month-to-Month,323,Yes
+1400,17,One Year,864,Yes
+1401,15,One Year,132,No
+1402,11,One Year,365,Yes
+1403,17,One Year,741,No
+1404,18,One Year,360,No
+1405,57,Two Year,242,No
+1406,22,Month-to-Month,562,Yes
+1407,47,Two Year,545,No
+1408,21,Month-to-Month,355,Yes
+1409,22,Two Year,773,No
+1410,50,Two Year,334,No
+1411,2,Month-to-Month,214,No
+1412,29,One Year,623,No
+1413,44,Two Year,844,No
+1414,30,Two Year,356,No
+1415,13,Month-to-Month,322,Yes
+1416,14,One Year,361,Yes
+1417,6,One Year,426,No
+1418,11,Month-to-Month,215,Yes
+1419,12,One Year,470,Yes
+1420,48,Two Year,358,No
+1421,45,Two Year,691,No
+1422,48,Two Year,141,No
+1423,28,Two Year,160,No
+1424,58,Two Year,122,No
+1425,27,Two Year,447,No
+1426,13,One Year,347,No
+1427,16,Month-to-Month,271,Yes
+1428,29,Two Year,149,No
+1429,20,One Year,828,Yes
+1430,37,Two Year,227,No
+1431,21,Two Year,309,Yes
+1432,34,Two Year,369,No
+1433,25,Two Year,600,No
+1434,12,One Year,400,No
+1435,16,Month-to-Month,705,No
+1436,28,One Year,246,Yes
+1437,12,One Year,168,Yes
+1438,14,Month-to-Month,315,Yes
+1439,33,One Year,377,No
+1440,5,Month-to-Month,327,Yes
+1441,12,One Year,183,No
+1442,22,One Year,757,Yes
+1443,27,One Year,274,No
+1444,13,Month-to-Month,682,No
+1445,13,Two Year,309,No
+1446,23,Month-to-Month,458,Yes
+1447,18,Month-to-Month,660,Yes
+1448,3,Month-to-Month,233,No
+1449,40,Two Year,687,No
+1450,55,Two Year,249,No
+1451,55,Two Year,508,No
+1452,21,Two Year,116,No
+1453,18,One Year,410,No
+1454,18,Month-to-Month,231,No
+1455,30,One Year,314,No
+1456,26,Two Year,632,No
+1457,48,Two Year,233,No
+1458,17,Two Year,406,No
+1459,14,Month-to-Month,121,No
+1460,13,Month-to-Month,426,Yes
+1461,9,One Year,179,No
+1462,25,One Year,777,No
+1463,26,One Year,401,No
+1464,10,Month-to-Month,312,No
+1465,31,One Year,292,Yes
+1466,17,Two Year,670,No
+1467,27,One Year,204,Yes
+1468,46,Two Year,190,No
+1469,17,Month-to-Month,232,No
+1470,15,One Year,649,Yes
+1471,17,Month-to-Month,267,No
+1472,3,Month-to-Month,393,No
+1473,15,Month-to-Month,210,No
+1474,15,Two Year,603,No
+1475,16,One Year,220,No
+1476,39,Two Year,214,No
+1477,3,Month-to-Month,350,No
+1478,10,Month-to-Month,97,Yes
+1479,5,Month-to-Month,398,Yes
+1480,20,One Year,158,No
+1481,32,One Year,314,No
+1482,18,Month-to-Month,639,Yes
+1483,16,Month-to-Month,855,Yes
+1484,8,Month-to-Month,334,Yes
+1485,40,Two Year,330,No
+1486,29,One Year,286,No
+1487,13,One Year,443,No
+1488,35,Two Year,375,No
+1489,8,Month-to-Month,237,Yes
+1490,32,One Year,767,No
+1491,14,One Year,424,No
+1492,13,Month-to-Month,329,Yes
+1493,38,Two Year,577,No
+1494,16,Two Year,328,No
+1495,42,Two Year,209,No
+1496,16,One Year,245,No
+1497,42,Two Year,330,No
+1498,2,Month-to-Month,749,Yes
+1499,50,Two Year,285,No
+1500,19,One Year,278,No
+1501,8,Month-to-Month,369,No
+1502,35,Two Year,281,No
+1503,19,Month-to-Month,636,Yes
+1504,52,Two Year,335,No
+1505,39,Two Year,799,Yes
+1506,35,One Year,107,No
+1507,15,Two Year,358,No
+1508,38,Two Year,357,No
+1509,23,Two Year,263,No
+1510,37,Two Year,218,No
+1511,19,One Year,558,No
+1512,23,Two Year,84,Yes
+1513,16,One Year,215,Yes
+1514,58,Two Year,185,Yes
+1515,28,One Year,103,No
+1516,4,Month-to-Month,388,No
+1517,52,Two Year,102,No
+1518,23,Month-to-Month,408,No
+1519,25,One Year,466,Yes
+1520,58,Two Year,254,Yes
+1521,16,One Year,768,Yes
+1522,55,Two Year,161,No
+1523,15,Month-to-Month,238,No
+1524,30,Two Year,363,No
+1525,49,Two Year,739,No
+1526,36,Two Year,690,Yes
+1527,26,Two Year,667,Yes
+1528,13,One Year,253,No
+1529,40,Two Year,465,No
+1530,26,Two Year,225,Yes
+1531,18,Two Year,628,Yes
+1532,55,Two Year,744,No
+1533,31,One Year,721,No
+1534,36,Two Year,287,No
+1535,55,Two Year,732,No
+1536,33,Two Year,766,No
+1537,13,Two Year,564,Yes
+1538,22,Two Year,184,No
+1539,26,One Year,486,No
+1540,29,Two Year,609,Yes
+1541,6,Month-to-Month,91,No
+1542,13,Month-to-Month,386,Yes
+1543,16,One Year,350,Yes
+1544,14,One Year,625,Yes
+1545,57,Two Year,288,No
+1546,22,Month-to-Month,326,Yes
+1547,31,Two Year,306,No
+1548,2,Month-to-Month,406,Yes
+1549,14,One Year,241,No
+1550,37,Two Year,354,No
+1551,37,Two Year,344,No
+1552,26,Two Year,373,No
+1553,12,Month-to-Month,305,No
+1554,14,One Year,324,No
+1555,9,Month-to-Month,526,Yes
+1556,19,Two Year,318,No
+1557,31,Two Year,577,No
+1558,7,Month-to-Month,691,Yes
+1559,16,Month-to-Month,197,No
+1560,8,One Year,316,No
+1561,10,Month-to-Month,74,No
+1562,34,Two Year,201,No
+1563,36,Two Year,413,No
+1564,30,Two Year,815,Yes
+1565,56,Two Year,489,No
+1566,19,Month-to-Month,430,No
+1567,17,Two Year,793,No
+1568,24,Month-to-Month,238,No
+1569,39,Two Year,285,No
+1570,34,One Year,338,No
+1571,7,Month-to-Month,285,Yes
+1572,31,Two Year,345,No
+1573,12,Month-to-Month,118,No
+1574,22,One Year,685,No
+1575,45,Two Year,726,No
+1576,15,Month-to-Month,349,Yes
+1577,53,Two Year,644,Yes
+1578,23,Two Year,197,Yes
+1579,8,Month-to-Month,212,Yes
+1580,44,Two Year,768,No
+1581,59,Two Year,177,Yes
+1582,55,Two Year,140,No
+1583,2,Month-to-Month,560,No
+1584,10,One Year,763,No
+1585,22,Month-to-Month,640,Yes
+1586,25,Two Year,736,No
+1587,13,Two Year,349,No
+1588,28,Two Year,242,No
+1589,3,Month-to-Month,282,No
+1590,1,Month-to-Month,617,Yes
+1591,34,Two Year,474,No
+1592,10,Month-to-Month,498,Yes
+1593,10,Month-to-Month,510,No
+1594,16,Two Year,332,Yes
+1595,11,Month-to-Month,106,No
+1596,27,One Year,453,No
+1597,54,Two Year,401,No
+1598,22,One Year,212,Yes
+1599,39,Two Year,649,Yes
+1600,12,Month-to-Month,447,No
+1601,25,Two Year,696,Yes
+1602,31,Two Year,459,No
+1603,12,Two Year,302,No
+1604,11,One Year,692,No
+1605,5,Month-to-Month,321,Yes
+1606,53,Two Year,467,No
+1607,2,Month-to-Month,315,Yes
+1608,34,One Year,372,No
+1609,42,Two Year,270,Yes
+1610,20,Month-to-Month,327,Yes
+1611,13,Month-to-Month,406,No
+1612,19,Two Year,618,Yes
+1613,19,Two Year,301,Yes
+1614,49,Two Year,751,No
+1615,58,Two Year,396,No
+1616,23,Month-to-Month,480,Yes
+1617,29,Two Year,219,Yes
+1618,8,Month-to-Month,564,Yes
+1619,23,Two Year,338,No
+1620,30,Two Year,577,No
+1621,26,One Year,521,Yes
+1622,52,Two Year,431,No
+1623,14,One Year,398,Yes
+1624,59,Two Year,810,No
+1625,9,Month-to-Month,570,Yes
+1626,6,Month-to-Month,282,No
+1627,24,One Year,271,Yes
+1628,9,Month-to-Month,510,Yes
+1629,56,Two Year,608,No
+1630,35,Two Year,280,No
+1631,12,Two Year,267,Yes
+1632,32,Two Year,670,Yes
+1633,17,Month-to-Month,441,Yes
+1634,37,Two Year,514,No
+1635,13,One Year,232,No
+1636,13,Two Year,236,No
+1637,8,Month-to-Month,715,Yes
+1638,12,Month-to-Month,329,No
+1639,10,One Year,463,No
+1640,16,One Year,176,No
+1641,28,One Year,289,No
+1642,15,Month-to-Month,365,Yes
+1643,16,One Year,214,No
+1644,9,One Year,308,Yes
+1645,7,One Year,607,Yes
+1646,4,Month-to-Month,127,No
+1647,40,Two Year,322,No
+1648,13,One Year,398,Yes
+1649,47,Two Year,352,No
+1650,7,One Year,869,No
+1651,31,One Year,406,No
+1652,17,One Year,161,No
+1653,13,Month-to-Month,278,No
+1654,24,Month-to-Month,431,No
+1655,24,Month-to-Month,168,No
+1656,4,Month-to-Month,653,Yes
+1657,56,Two Year,557,Yes
+1658,13,Month-to-Month,287,No
+1659,33,Two Year,405,No
+1660,37,Two Year,72,No
+1661,21,Two Year,647,Yes
+1662,10,Month-to-Month,169,Yes
+1663,37,Two Year,409,No
+1664,35,Two Year,167,No
+1665,7,Month-to-Month,339,Yes
+1666,18,Month-to-Month,656,No
+1667,58,Two Year,817,No
+1668,7,One Year,617,Yes
+1669,26,Two Year,578,No
+1670,15,One Year,815,Yes
+1671,2,Month-to-Month,503,Yes
+1672,18,Two Year,279,No
+1673,14,Two Year,820,Yes
+1674,7,Month-to-Month,631,Yes
+1675,57,Two Year,135,No
+1676,6,Month-to-Month,734,Yes
+1677,12,One Year,281,No
+1678,4,Month-to-Month,357,Yes
+1679,6,One Year,131,Yes
+1680,22,One Year,183,No
+1681,12,Month-to-Month,836,Yes
+1682,19,Two Year,428,No
+1683,8,One Year,587,Yes
+1684,8,One Year,180,No
+1685,6,Month-to-Month,392,No
+1686,7,One Year,649,Yes
+1687,19,Two Year,242,No
+1688,31,One Year,161,No
+1689,34,One Year,482,No
+1690,27,Two Year,275,No
+1691,27,Two Year,205,No
+1692,27,Two Year,187,No
+1693,16,Month-to-Month,713,Yes
+1694,33,One Year,370,No
+1695,5,Month-to-Month,504,Yes
+1696,6,One Year,199,No
+1697,26,One Year,282,No
+1698,23,One Year,636,No
+1699,1,Month-to-Month,646,Yes
+1700,20,Month-to-Month,416,Yes
+1701,4,Month-to-Month,313,Yes
+1702,56,Two Year,831,Yes
+1703,21,Month-to-Month,381,Yes
+1704,8,One Year,383,No
+1705,6,Month-to-Month,717,Yes
+1706,16,One Year,377,No
+1707,48,Two Year,304,Yes
+1708,58,Two Year,139,No
+1709,6,Month-to-Month,165,Yes
+1710,41,Two Year,398,No
+1711,3,Month-to-Month,169,Yes
+1712,9,Month-to-Month,277,Yes
+1713,2,Month-to-Month,634,Yes
+1714,29,Two Year,314,Yes
+1715,36,Two Year,383,Yes
+1716,1,Month-to-Month,307,Yes
+1717,14,Month-to-Month,238,Yes
+1718,27,One Year,511,No
+1719,14,Two Year,214,No
+1720,45,Two Year,152,No
+1721,9,One Year,333,No
+1722,13,Month-to-Month,769,Yes
+1723,25,One Year,254,No
+1724,6,Month-to-Month,301,Yes
+1725,16,One Year,532,No
+1726,34,Two Year,646,No
+1727,19,Month-to-Month,675,Yes
+1728,36,Two Year,304,No
+1729,22,Two Year,457,No
+1730,20,One Year,688,No
+1731,9,Month-to-Month,396,Yes
+1732,14,One Year,419,Yes
+1733,7,Month-to-Month,272,Yes
+1734,44,Two Year,312,No
+1735,7,Month-to-Month,717,Yes
+1736,5,Month-to-Month,321,Yes
+1737,47,Two Year,235,No
+1738,48,Two Year,226,No
+1739,3,Month-to-Month,759,Yes
+1740,33,Two Year,148,Yes
+1741,16,Two Year,361,No
+1742,21,Month-to-Month,373,No
+1743,32,Two Year,677,No
+1744,50,Two Year,226,No
+1745,21,Month-to-Month,472,No
+1746,10,One Year,460,Yes
+1747,26,One Year,573,No
+1748,31,One Year,692,Yes
+1749,59,Two Year,382,No
+1750,51,Two Year,417,No
+1751,26,One Year,843,Yes
+1752,22,One Year,270,No
+1753,24,Month-to-Month,307,Yes
+1754,59,Two Year,274,No
+1755,10,Month-to-Month,448,Yes
+1756,51,Two Year,353,No
+1757,22,Two Year,427,No
+1758,28,Two Year,290,Yes
+1759,43,Two Year,236,No
+1760,13,One Year,335,No
+1761,11,Month-to-Month,174,Yes
+1762,16,Two Year,217,No
+1763,13,One Year,415,No
+1764,25,One Year,682,No
+1765,39,Two Year,104,No
+1766,16,Two Year,120,No
+1767,10,Month-to-Month,809,Yes
+1768,43,Two Year,597,No
+1769,13,One Year,408,No
+1770,30,One Year,133,Yes
+1771,35,One Year,843,No
+1772,52,Two Year,487,No
+1773,23,Month-to-Month,452,No
+1774,21,Two Year,337,Yes
+1775,8,Month-to-Month,424,Yes
+1776,24,Two Year,403,No
+1777,16,Month-to-Month,368,Yes
+1778,33,One Year,385,No
+1779,21,Two Year,567,No
+1780,20,Two Year,260,No
+1781,14,Month-to-Month,386,Yes
+1782,33,Two Year,594,Yes
+1783,19,Month-to-Month,335,No
+1784,29,One Year,202,No
+1785,35,One Year,199,Yes
+1786,14,One Year,215,Yes
+1787,13,Month-to-Month,554,Yes
+1788,57,Two Year,470,No
+1789,27,One Year,372,No
+1790,33,Two Year,346,No
+1791,29,Two Year,335,Yes
+1792,21,Month-to-Month,638,Yes
+1793,23,One Year,699,Yes
+1794,55,Two Year,423,No
+1795,14,Two Year,190,No
+1796,7,Month-to-Month,367,No
+1797,36,Two Year,387,No
+1798,8,Month-to-Month,378,No
+1799,19,Two Year,385,Yes
+1800,5,Month-to-Month,183,No
+1801,8,Month-to-Month,695,Yes
+1802,15,One Year,649,No
+1803,26,One Year,345,No
+1804,14,One Year,273,No
+1805,20,Two Year,734,Yes
+1806,53,Two Year,516,Yes
+1807,12,Month-to-Month,371,Yes
+1808,45,Two Year,706,No
+1809,31,Two Year,267,No
+1810,24,One Year,274,Yes
+1811,19,Month-to-Month,381,Yes
+1812,20,One Year,200,No
+1813,15,One Year,721,Yes
+1814,49,Two Year,671,Yes
+1815,8,Month-to-Month,591,Yes
+1816,19,One Year,393,No
+1817,56,Two Year,85,No
+1818,18,Two Year,678,No
+1819,14,Two Year,539,Yes
+1820,25,One Year,326,No
+1821,45,Two Year,288,No
+1822,19,Month-to-Month,367,No
+1823,24,One Year,577,No
+1824,30,Two Year,663,No
+1825,17,One Year,748,Yes
+1826,6,Month-to-Month,265,Yes
+1827,19,Month-to-Month,315,No
+1828,23,Month-to-Month,307,No
+1829,25,One Year,208,No
+1830,22,Two Year,311,No
+1831,44,Two Year,250,No
+1832,20,Month-to-Month,338,Yes
+1833,11,One Year,785,No
+1834,33,One Year,326,Yes
+1835,9,Month-to-Month,617,Yes
+1836,30,One Year,247,Yes
+1837,14,Two Year,520,Yes
+1838,56,Two Year,327,No
+1839,13,Month-to-Month,858,Yes
+1840,10,Month-to-Month,129,Yes
+1841,19,Month-to-Month,210,No
+1842,5,Month-to-Month,246,Yes
+1843,10,Month-to-Month,509,No
+1844,11,One Year,142,Yes
+1845,7,Month-to-Month,472,Yes
+1846,24,Month-to-Month,218,No
+1847,52,Two Year,390,No
+1848,12,Month-to-Month,293,No
+1849,42,Two Year,780,No
+1850,26,One Year,664,Yes
+1851,15,One Year,403,No
+1852,46,Two Year,282,No
+1853,29,One Year,336,Yes
+1854,36,Two Year,323,No
+1855,12,Month-to-Month,383,No
+1856,20,Month-to-Month,505,Yes
+1857,30,One Year,76,No
+1858,17,Two Year,695,Yes
+1859,29,One Year,340,No
+1860,53,Two Year,760,No
+1861,19,One Year,271,No
+1862,32,Two Year,199,No
+1863,8,One Year,184,No
+1864,19,Month-to-Month,608,Yes
+1865,26,One Year,672,No
+1866,30,One Year,710,Yes
+1867,9,One Year,167,Yes
+1868,22,One Year,261,Yes
+1869,34,One Year,530,No
+1870,31,One Year,177,No
+1871,22,One Year,163,No
+1872,11,One Year,344,No
+1873,6,One Year,667,Yes
+1874,27,One Year,317,Yes
+1875,2,Month-to-Month,290,Yes
+1876,59,Two Year,708,No
+1877,7,Month-to-Month,310,No
+1878,24,Month-to-Month,401,Yes
+1879,15,One Year,454,Yes
+1880,43,Two Year,560,Yes
+1881,20,Month-to-Month,429,Yes
+1882,9,One Year,505,Yes
+1883,51,Two Year,340,No
+1884,33,Two Year,587,No
+1885,33,One Year,287,No
+1886,13,Two Year,533,No
+1887,8,Month-to-Month,189,Yes
+1888,53,Two Year,381,No
+1889,7,Month-to-Month,607,No
+1890,30,One Year,373,No
+1891,5,Month-to-Month,327,Yes
+1892,15,One Year,197,Yes
+1893,9,One Year,718,No
+1894,13,One Year,240,No
+1895,20,One Year,490,Yes
+1896,29,Two Year,762,No
+1897,20,Month-to-Month,446,Yes
+1898,18,Two Year,644,No
+1899,3,Month-to-Month,445,No
+1900,16,One Year,317,No
+1901,19,Two Year,273,No
+1902,59,Two Year,256,No
+1903,4,Month-to-Month,313,Yes
+1904,14,One Year,199,No
+1905,14,Month-to-Month,193,No
+1906,56,Two Year,694,No
+1907,7,One Year,510,Yes
+1908,42,Two Year,847,No
+1909,5,Month-to-Month,816,Yes
+1910,6,One Year,369,Yes
+1911,25,One Year,328,No
+1912,16,Two Year,384,No
+1913,49,Two Year,716,No
+1914,24,One Year,841,No
+1915,16,One Year,706,No
+1916,55,Two Year,736,No
+1917,17,One Year,654,Yes
+1918,16,Month-to-Month,359,Yes
+1919,9,Month-to-Month,537,Yes
+1920,22,Two Year,555,No
+1921,22,Month-to-Month,390,Yes
+1922,17,One Year,562,Yes
+1923,16,Month-to-Month,161,No
+1924,12,One Year,397,No
+1925,1,Month-to-Month,382,No
+1926,14,Two Year,711,No
+1927,6,Month-to-Month,312,Yes
+1928,46,Two Year,211,No
+1929,25,Two Year,224,No
+1930,8,One Year,470,No
+1931,1,Month-to-Month,490,No
+1932,7,One Year,132,No
+1933,14,Month-to-Month,721,Yes
+1934,3,Month-to-Month,225,Yes
+1935,25,Two Year,245,No
+1936,30,One Year,420,No
+1937,28,One Year,281,No
+1938,57,Two Year,593,No
+1939,20,Two Year,403,No
+1940,25,Two Year,284,No
+1941,30,Two Year,229,No
+1942,47,Two Year,643,No
+1943,20,Two Year,329,No
+1944,36,Two Year,243,No
+1945,8,One Year,523,No
+1946,9,One Year,224,No
+1947,2,Month-to-Month,283,Yes
+1948,27,One Year,295,No
+1949,23,Month-to-Month,226,Yes
+1950,17,Month-to-Month,592,Yes
+1951,3,Month-to-Month,379,Yes
+1952,19,One Year,247,No
+1953,16,Two Year,472,No
+1954,10,One Year,357,Yes
+1955,9,One Year,148,No
+1956,19,Two Year,536,Yes
+1957,15,Month-to-Month,648,Yes
+1958,22,Month-to-Month,783,Yes
+1959,26,Two Year,221,No
+1960,20,Month-to-Month,291,Yes
+1961,51,Two Year,120,No
+1962,11,One Year,456,Yes
+1963,23,Month-to-Month,80,Yes
+1964,22,Month-to-Month,191,Yes
+1965,33,Two Year,731,No
+1966,52,Two Year,377,No
+1967,34,Two Year,455,No
+1968,34,One Year,322,No
+1969,8,Month-to-Month,739,Yes
+1970,15,One Year,690,Yes
+1971,18,One Year,714,No
+1972,8,One Year,369,No
+1973,29,One Year,243,Yes
+1974,17,Month-to-Month,374,Yes
+1975,54,Two Year,676,Yes
+1976,1,Month-to-Month,177,Yes
+1977,21,Month-to-Month,355,No
+1978,53,Two Year,290,Yes
+1979,24,Month-to-Month,134,Yes
+1980,14,One Year,153,Yes
+1981,26,One Year,760,Yes
+1982,12,One Year,251,No
+1983,19,One Year,608,No
+1984,14,Month-to-Month,706,Yes
+1985,8,Month-to-Month,243,Yes
+1986,13,One Year,713,Yes
+1987,17,One Year,333,Yes
+1988,31,One Year,159,No
+1989,14,Month-to-Month,575,Yes
+1990,29,Two Year,599,Yes
+1991,9,One Year,277,Yes
+1992,15,Month-to-Month,644,Yes
+1993,44,Two Year,602,No
+1994,26,Two Year,91,No
+1995,9,Month-to-Month,301,Yes
+1996,22,Two Year,456,No
+1997,23,One Year,217,Yes
+1998,20,Two Year,564,Yes
+1999,39,Two Year,391,No
+2000,11,One Year,755,No
